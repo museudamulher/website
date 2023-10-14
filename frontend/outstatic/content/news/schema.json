@@ -1,13 +1,5 @@
 {
   "title": "news",
   "type": "object",
-  "properties": {
-    "body": {
-      "required": true,
-      "description": "",
-      "fieldType": "Text",
-      "dataType": "string",
-      "title": "Body"
-    }
-  }
+  "properties": {}
 }
