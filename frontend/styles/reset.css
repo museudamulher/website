@@ -23,13 +23,5 @@ a {
 
 * {
   box-sizing: border-box;
-  user-select: none;
-  -webkit-touch-callout: none;
   font-family: var(--font-opensans), sans-serif;
-}
-
-input,
-textarea {
-  user-select: text;
-  -webkit-touch-callout: default;
 }
