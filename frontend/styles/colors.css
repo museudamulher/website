@@ -1,9 +1,9 @@
 :root {
   /* BRAND */
-  --carris-metropolitana: #ffdd01;
-
-  /* DEBUG */
-  --debug: #055252;
+  --mima-red: #e84c3b;
+  --mima-blue: #2c6189;
+  --mima-green: #31aab3;
+  --mima-purple: #7f78b6;
 
   /* GRAYS */
   --gray-0: #ffffff;
@@ -14,18 +14,6 @@
   --gray-5: #787878;
   --gray-6: #5a5a5a;
   --gray-7: #000000;
-
-  /* REALTIME */
-  --realtime-0: rgba(0, 215, 50, 0);
-  --realtime-5: rgba(0, 215, 50, 0.05);
-  --realtime-15: rgba(0, 215, 50, 0.15);
-  --realtime-25: rgba(0, 215, 50, 0.25);
-  --realtime-50: rgba(0, 215, 50, 0.5);
-  --realtime-75: rgba(0, 215, 50, 0.75);
-  --realtime-100: rgba(0, 205, 50, 1);
-
-  /* TIME RED */
-  --current-time-100: rgb(230, 75, 35);
 
   /* GREEN */
   --green-7: #2b8a3e;

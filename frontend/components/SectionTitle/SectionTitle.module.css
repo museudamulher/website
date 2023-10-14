@@ -1,0 +1,13 @@
+/* * */
+/* TITLE */
+
+.title {
+  font-size: 30px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.pt {
+  font-weight: 700;
+}

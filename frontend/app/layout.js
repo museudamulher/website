@@ -5,12 +5,12 @@ import '@/styles/reset.css';
 import '@/styles/defaults.css';
 import '@/styles/colors.css';
 
-import { Inter } from 'next/font/google';
+import { Open_Sans } from 'next/font/google';
 
-const inter = Inter({
+const openSans = Open_Sans({
   weight: ['400', '500', '600', '700', '800'],
   subsets: ['latin'],
-  variable: '--font-inter',
+  variable: '--font-opensans',
   display: 'swap',
 });
 
@@ -22,7 +22,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html className={inter.variable}>
+    <html className={openSans.variable}>
       <body>{children}</body>
     </html>
   );

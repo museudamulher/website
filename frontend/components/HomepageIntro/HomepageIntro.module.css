@@ -1,0 +1,78 @@
+/* * */
+/* CONTAINER */
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+}
+
+/* * */
+/* TITLES */
+
+.titles {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+
+.titlesPt,
+.titlesEn {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.titlesPt {
+  gap: 10px;
+}
+
+.titlesEn {
+  gap: 5px;
+}
+
+.titlesPt h1 {
+  font-size: 27px;
+  font-weight: 700;
+}
+
+.titlesEn h2 {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* * */
+/* LINKS */
+
+.links {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+
+.linkPt {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.linkEn {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.linkPt a,
+.linkEn a {
+  color: var(--mima-red);
+  text-decoration: underline;
+}
