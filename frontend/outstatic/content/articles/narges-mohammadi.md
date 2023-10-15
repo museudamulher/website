@@ -4,7 +4,7 @@ status: 'published'
 author:
   name: 'João de Vasconcelos'
   picture: 'https://avatars.githubusercontent.com/u/10943992?v=4'
-slug: 'teste'
+slug: 'narges-mohammadi'
 description: ''
 coverImage: '/images/img_1704-Y3Mj.png'
 publishedAt: '2023-09-10T21:03:58.000Z'
