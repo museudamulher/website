@@ -1,5 +1,5 @@
 ---
-title: 'Teste 2'
+title: 'Obrigada, Marielle Franco!'
 status: 'published'
 author:
   name: 'João de Vasconcelos'
@@ -10,5 +10,5 @@ coverImage: 'https://www.carrismetropolitana.pt/wp-content/uploads/2023/10/Post-
 publishedAt: '2023-10-15T13:41:50.909Z'
 ---
 
-hsiuahiushdiua
+De luto por Marielle Franco Filha da favela, negra, mãe adolescente, fez do estudo a possibilidade de ser voz de quem a não tinha. Com essa voz, incomodou poderes instituídos, lutou pelos direitos humanos e contra as discriminações.
 
