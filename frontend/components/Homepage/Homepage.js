@@ -5,6 +5,7 @@ import HomepageIntro from '@/components/HomepageIntro/HomepageIntro';
 import HomepageHistory from '@/components/HomepageHistory/HomepageHistory';
 import HomepageFuture from '@/components/HomepageFuture/HomepageFuture';
 import HomepageContacts from '@/components/HomepageContacts/HomepageContacts';
+import HomepageNews from '../HomepageNews/HomepageNews';
 
 /* * */
 
@@ -19,7 +20,7 @@ export default function Homepage() {
       <div className={styles.container}>
         <HomepageLogo />
         <HomepageIntro />
-        <div>News</div>
+        <HomepageNews />
         <HomepageHistory />
         <HomepageFuture />
         <HomepageContacts />
