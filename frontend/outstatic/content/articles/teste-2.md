@@ -12,5 +12,3 @@ publishedAt: '2018-03-16T14:41:50.000Z'
 
 De luto por Marielle Franco Filha da favela, negra, mãe adolescente, fez do estudo a possibilidade de ser voz de quem a não tinha. Com essa voz, incomodou poderes instituídos, lutou pelos direitos humanos e contra as discriminações.
 
-[https://youtu.be/NM8BfGtqavA](https://youtu.be/NM8BfGtqavA)
-
