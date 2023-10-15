@@ -1,9 +1,8 @@
 #!/bin/bash
 
 staging=0 # Set to 1 if you're testing your setup to avoid hitting request limits
-domain1=beta.carrismetropolitana.pt # The primary domain
-domain2=on.carrismetropolitana.pt
-email="carrismetropolitana@gmail.com" # Adding a valid address is strongly recommended
+domain=museudamulher.com # The primary domain
+email="contact@joao.earth" # Adding a valid address is strongly recommended
 
 
 echo "### Cleaning letsencrypt directory..."
@@ -16,11 +15,11 @@ curl -s https://raw.githubusercontent.com/certbot/certbot/master/certbot/certbot
 echo
 
 echo "### Creating dummy certificate..."
-mkdir -p "./letsencrypt/live/$domain1"
+mkdir -p "./letsencrypt/live/$domain"
 docker compose run --rm --entrypoint "\
   openssl req -x509 -nodes -newkey rsa:4096 -days 1\
-    -keyout '/etc/letsencrypt/live/$domain1/privkey.pem' \
-    -out '/etc/letsencrypt/live/$domain1/fullchain.pem' \
+    -keyout '/etc/letsencrypt/live/$domain/privkey.pem' \
+    -out '/etc/letsencrypt/live/$domain/fullchain.pem' \
     -subj '/CN=localhost'" certbot
 echo
 
@@ -31,13 +30,13 @@ echo
 
 echo "### Deleting dummy certificate..."
 docker compose run --rm --entrypoint "\
-  rm -Rf /etc/letsencrypt/live/$domain1 && \
-  rm -Rf /etc/letsencrypt/archive/$domain1 && \
-  rm -Rf /etc/letsencrypt/renewal/$domain1.conf" certbot
+  rm -Rf /etc/letsencrypt/live/$domain && \
+  rm -Rf /etc/letsencrypt/archive/$domain && \
+  rm -Rf /etc/letsencrypt/renewal/$domain.conf" certbot
 echo
 
 
-echo "### Requesting Let's Encrypt certificate for $domain1 and www.$domain1 and $domain2 and www.$domain2 ..."
+echo "### Requesting Let's Encrypt certificate for $domain and www.$domain ..."
 
 # Enable staging mode if needed
 if [ $staging != "0" ]; then staging_arg="--staging"; fi
@@ -45,7 +44,7 @@ if [ $staging != "0" ]; then staging_arg="--staging"; fi
 docker compose run --rm --entrypoint "\
   certbot certonly --webroot -w /var/www/certbot \
     $staging_arg \
-    -d $domain1 -d www.$domain1 -d $domain2 -d www.$domain2 \
+    -d $domain -d www.$domain \
     --email $email \
     --rsa-key-size 4096 \
     --agree-tos \
