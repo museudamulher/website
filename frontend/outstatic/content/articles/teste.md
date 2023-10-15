@@ -1,5 +1,5 @@
 ---
-title: 'Teste'
+title: 'Nobel da Paz para Narges Mohammadi, pela sua luta contra a opressão das mulheres no Irão'
 status: 'published'
 author:
   name: 'João de Vasconcelos'
@@ -10,5 +10,5 @@ coverImage: 'https://www.carrismetropolitana.pt/wp-content/uploads/2023/09/ECRA-
 publishedAt: '2023-10-14T21:03:58.936Z'
 ---
 
-hiuhdsihdsii
+A jornalista e ativista dos direitos humanos iraniana, Narges Mohammadi, é a vencedora do Prémio Nobel da Paz de 2023, mas não deverá recebê-lo pessoalmente. Mais uma vez, encontra-se a cumprir pena por lutar pelos direitos humanos.
 
