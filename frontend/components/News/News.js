@@ -20,7 +20,6 @@ export default async function News() {
   // A. Fetch data
 
   const allArticlesDatas = await getAllArticles();
-  console.log(allArticlesDatas);
 
   //
   // B. Render components
