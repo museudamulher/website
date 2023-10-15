@@ -32,6 +32,12 @@
   border-bottom: 1px solid var(--gray-2);
 }
 
+@media (max-width: 800px) {
+  .coverImage {
+    height: 300px;
+  }
+}
+
 /* * */
 /* CONTENT */
 
