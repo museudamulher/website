@@ -18,8 +18,7 @@ export default async function HomepageNews() {
   //
   // A. Fetch data
 
-  const allArticlesDatas = await getAllArticles();
-  console.log(allArticlesDatas);
+  const allArticlesData = await getAllArticles();
 
   //
   // B. Render components
@@ -30,7 +29,7 @@ export default async function HomepageNews() {
         <SectionTitle pt="Notícias" en="News" />
       </Link>
       <div className={styles.articlesGrid}>
-        {allArticlesDatas.map((article) => (
+        {allArticlesData.map((article) => (
           <NewsArticle key={article.slug} article={article} />
         ))}
       </div>

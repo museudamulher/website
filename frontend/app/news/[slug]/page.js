@@ -16,9 +16,14 @@ export default async function Page({ params }) {
   //
 
   //
-  // A. Render components
+  // A. Fetch data
 
-  return <Article article={await getArticle(params.slug)} />;
+  const articleData = await getArticle(params.slug);
+
+  //
+  // B. Render components
+
+  return <Article article={articleData} />;
 
   //
 }
