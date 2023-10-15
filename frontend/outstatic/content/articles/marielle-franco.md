@@ -4,7 +4,7 @@ status: 'published'
 author:
   name: 'João de Vasconcelos'
   picture: 'https://avatars.githubusercontent.com/u/10943992?v=4'
-slug: 'teste-2'
+slug: 'marielle-franco'
 description: ''
 coverImage: '/images/screenshot-2023-10-15-at-15.28.32-k4NT.png'
 publishedAt: '2018-03-16T14:41:50.000Z'
