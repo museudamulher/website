@@ -1,0 +1,28 @@
+/* * */
+/* CONTAINER */
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  border-radius: 3px;
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--reference-1);
+  border: 1px solid var(--reference-1);
+  background-color: var(--reference-0);
+  opacity: 0.15;
+  transition: all 200ms ease;
+}
+
+.container:hover {
+  color: var(--reference-0);
+  background-color: var(--mima-blue);
+  border-color: var(--mima-blue);
+  opacity: 1;
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
+}

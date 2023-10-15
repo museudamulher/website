@@ -1,8 +1,9 @@
-import styles from './HomepageNews.module.css';
+import styles from './News.module.css';
 import SectionTitle from '@/components/SectionTitle/SectionTitle';
 import { getDocuments } from 'outstatic/server';
 import NewsArticle from '@/components/NewsArticle/NewsArticle';
-import Link from 'next/link';
+import AppWrapper from '../AppWrapper/AppWrapper';
+import ReturnButton from '../ReturnButton/ReturnButton';
 
 /* * */
 
@@ -12,7 +13,7 @@ async function getAllArticles() {
 
 /* * */
 
-export default async function HomepageNews() {
+export default async function News() {
   //
 
   //
@@ -25,16 +26,17 @@ export default async function HomepageNews() {
   // B. Render components
 
   return (
-    <div className={styles.container}>
-      <Link href="/news">
+    <AppWrapper>
+      <div className={styles.container}>
+        <ReturnButton url="/" />
         <SectionTitle pt="Notícias" en="News" />
-      </Link>
-      <div className={styles.articlesGrid}>
-        {allArticlesDatas.map((article) => (
-          <NewsArticle key={article.slug} article={article} />
-        ))}
+        <div className={styles.articlesGrid}>
+          {allArticlesDatas.map((article) => (
+            <NewsArticle key={article.slug} article={article} />
+          ))}
+        </div>
       </div>
-    </div>
+    </AppWrapper>
   );
 
   //

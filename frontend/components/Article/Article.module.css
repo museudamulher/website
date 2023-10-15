@@ -1,0 +1,50 @@
+/* * */
+/* CONTAINER */
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 50px var(--size-lg) 150px var(--size-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+}
+
+/* * */
+/* COVER IMAGE */
+
+.coverImage {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 500px;
+  border-bottom: 1px solid var(--gray-2);
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* * */
+/* TITLE */
+
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--reference-1);
+}
+
+/* * */
+/* CONTENT */
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 20px;
+  line-height: 1.6;
+}
