@@ -1,0 +1,13 @@
+{
+  "title": "links",
+  "type": "object",
+  "properties": {
+    "backgroundColor": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Background Color"
+    }
+  }
+}
