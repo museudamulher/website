@@ -9,7 +9,7 @@ description: 'Retrato de uma das atrizes portuguesas mais queridas em Portugal e
 coverImage: '/images/41752_64452_50329-k2NT.jpg'
 backgroundColor: ''
 textColor: ''
-externalUrl: 'https://www.rtp.pt/play/p9694/beatriz-costa-a-alegria-e-a-minha-religiao'
+externalUrl: 'https://www.rtp.pt/programa/tv/p41752'
 publishedAt: '2022-01-02T00:24:18.000Z'
 ---
 
