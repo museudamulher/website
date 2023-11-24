@@ -7,6 +7,9 @@ author:
 slug: 'beatriz-costa-a-alegria-e-a-minha-religiao'
 description: ''
 coverImage: '/images/41752_64452_50329-k2NT.jpg'
+backgroundColor: ''
+textColor: ''
+externalUrl: 'https://www.rtp.pt/play/p9694/beatriz-costa-a-alegria-e-a-minha-religiao'
 publishedAt: '2023-11-24T00:24:18.362Z'
 ---
 
