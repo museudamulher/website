@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/10943992?v=4'
 slug: 'beatriz-costa-a-alegria-e-a-minha-religiao'
 description: ''
-coverImage: '/images/41752_64452_50329-AzNj.jpg'
+coverImage: '/images/41752_64452_50329-k2NT.jpg'
 publishedAt: '2023-11-24T00:24:18.362Z'
 ---
 
