@@ -2,13 +2,6 @@
   "title": "links",
   "type": "object",
   "properties": {
-    "textColor": {
-      "required": false,
-      "description": "",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Text Color"
-    },
     "externalUrl": {
       "required": false,
       "description": "",
