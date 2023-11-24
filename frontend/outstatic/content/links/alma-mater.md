@@ -13,7 +13,7 @@ externalUrl: 'https://antena2.rtp.pt/programa/alma-mater/'
 publishedAt: '2022-01-04T00:48:44.000Z'
 ---
 
-Depois dos programas [*No Tempo das Dálias*](https://antena2.rtp.pt/programa/no-tempo-das-dalias/) e [*Da Costela de Adão*](https://antena2.rtp.pt/programa/da-costela-de-adao/), Paula Castelar continua a contar histórias de vida no feminino, agora de mulheres ligadas à música.
+Depois dos programas *No Tempo das Dálias* e *Da Costela de Adão*, Paula Castelar continua a contar histórias de vida no feminino, agora de mulheres ligadas à música.
 
 Em *Alma Mater*, cada episódio apresenta dados biográficos de uma distinta figura e gravações resultantes da sua atividade musical, como instrumentista, cantora ou compositora.
 
