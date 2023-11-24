@@ -13,5 +13,5 @@ externalUrl: 'https://antena2.rtp.pt/programa/da-costela-de-adao/'
 publishedAt: '2020-02-04T00:47:53.000Z'
 ---
 
-Paula Castelar revela em, *Da Costela de Adão*, histórias no feminino. Não é um programa de biografias, como o anterior [*No Tempo das Dálias*](https://antena2.rtp.pt/programa/no-tempo-das-dalias/), mas um espaço mais abrangente onde a autora deseja surpreender os ouvintes.
+Paula Castelar revela em, *Da Costela de Adão*, histórias no feminino. Não é um programa de biografias, como o anterior *No Tempo das Dálias*, mas um espaço mais abrangente onde a autora deseja surpreender os ouvintes.
 
