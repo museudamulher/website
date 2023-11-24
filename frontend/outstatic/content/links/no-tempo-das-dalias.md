@@ -9,7 +9,7 @@ description: 'Série de pequenas biografias radiofónicas sobre figuras feminina
 coverImage: '/images/6997_10131_80755-E0OD.jpg'
 backgroundColor: ''
 textColor: ''
-externalUrl: 'https://www.rtp.pt/programa/radio/p6997'
+externalUrl: 'https://antena2.rtp.pt/programa/no-tempo-das-dalias/'
 publishedAt: '2019-01-01T01:00:46.000Z'
 ---
 
