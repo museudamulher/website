@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Background Color"
+    },
+    "textColor": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Text Color"
     }
   }
 }
