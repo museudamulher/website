@@ -13,5 +13,5 @@ externalUrl: 'https://www.rtp.pt/programa/tv/p41752'
 publishedAt: '2022-01-02T00:24:18.000Z'
 ---
 
-**Retrato de uma das atrizes portuguesas mais queridas em Portugal e no Brasil durante as décadas de 30 e 40 do século XX.**
+Retrato de uma das atrizes portuguesas mais queridas em Portugal e no Brasil durante as décadas de 30 e 40 do século XX.
 
