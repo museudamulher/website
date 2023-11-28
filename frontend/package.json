@@ -1,6 +1,6 @@
 {
     "name": "@museudamulher/website",
-    "version": "2023.11.24-0135",
+    "version": "2023.11.28-2341",
     "private": true,
     "scripts": {
         "dev": "next dev",
@@ -20,8 +20,8 @@
         "sharp": "0.32.6"
     },
     "devDependencies": {
-        "@types/node": "20.9.5",
-        "@types/react": "18.2.38",
+        "@types/node": "20.10.0",
+        "@types/react": "18.2.39",
         "@types/react-dom": "18.2.17",
         "eslint": "8.54.0",
         "eslint-config-next": "14.0.3",
