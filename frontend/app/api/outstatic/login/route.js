@@ -12,5 +12,7 @@ export async function GET() {
     url.searchParams.append('redirect_uri', process.env.OST_GITHUB_CALLBACK_URL);
   }
 
+  console.log('url.toString()', url.toString());
+
   redirect(url.toString());
 }
