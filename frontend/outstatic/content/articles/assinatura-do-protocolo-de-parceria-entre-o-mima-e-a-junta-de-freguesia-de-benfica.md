@@ -1,6 +1,6 @@
 ---
 title: 'Assinatura do protocolo de parceria entre o MIMA e a Junta de Freguesia de Benfica'
-status: 'draft'
+status: 'published'
 author:
   name: 'c'
   picture: ''
