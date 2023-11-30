@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'o-mima-na-rede-de-clubes-unesco'
 description: ''
-coverImage: '/images/unesco-EyOT.png'
+coverImage: '/images/protocolo-unesco-mima-c2MT.jpg'
 publishedAt: '2023-11-29T01:55:15.412Z'
 ---
 
