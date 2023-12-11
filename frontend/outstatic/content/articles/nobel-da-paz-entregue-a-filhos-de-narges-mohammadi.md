@@ -5,7 +5,7 @@ author:
   name: 'c'
   picture: ''
 slug: 'nobel-da-paz-entregue-a-filhos-de-narges-mohammadi'
-description: 'Imagem disponível em: https://expresso.pt/internacional/medio-oriente/2023-12-10-Esta-mulher-nao-desiste-mesmo-presa-no-Irao-a-ativista-Narges-Mohammadi-recebeu-este-domingo-o-Nobel-da-Paz-b62ccd60'
+description: ''
 coverImage: '/images/img_5123-E0Nj.webp'
 publishedAt: '2023-12-11T22:12:58.798Z'
 ---
@@ -14,8 +14,10 @@ No dia em que se celebram 75 anos da Carta Universal dos Direitos Humanos a cade
 
 Os filhos gémeos, vestidos simbolicamente de preto, leem um discurso que a mãe escreveu na prisão. Enquanto isso, ela inicia uma greve de fome que debilitará ainda mais a sua saúde.
 
-O MIMA torna a congratular-se pela decisão do Nobel da Paz ter distinguido tão nobre ser humano. 
+O MIMA torna a congratular-se pela decisão do Nobel da Paz ter distinguido tão nobre ser humano.
 
-Links:
+Link YouTube:
 
 <https://youtu.be/FbBY-SGBKrw?si=zQgP67cd2Mp0rlRE>
+
+Imagem disponível em: [https://expresso.pt](https://expresso.pt/internacional/medio-oriente/2023-12-10-Esta-mulher-nao-desiste-mesmo-presa-no-Irao-a-ativista-Narges-Mohammadi-recebeu-este-domingo-o-Nobel-da-Paz-b62ccd60)
