@@ -18,6 +18,4 @@ O MIMA torna a congratular-se pela decisão do Nobel da Paz ter distinguido tão
 
 Imagem disponível em: [https://expresso.pt](https://expresso.pt/internacional/medio-oriente/2023-12-10-Esta-mulher-nao-desiste-mesmo-presa-no-Irao-a-ativista-Narges-Mohammadi-recebeu-este-domingo-o-Nobel-da-Paz-b62ccd60)
 
-Link YouTube:
-
-<https://youtu.be/FbBY-SGBKrw?si=zQgP67cd2Mp0rlRE>
+Link [YouTube](https://youtu.be/FbBY-SGBKrw?si=zQgP67cd2Mp0rlRE)
