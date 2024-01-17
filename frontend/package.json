@@ -1,6 +1,6 @@
 {
     "name": "@museudamulher/website",
-    "version": "2023.11.28-2341",
+    "version": "2024.01.17-2051",
     "private": true,
     "scripts": {
         "dev": "next dev",
