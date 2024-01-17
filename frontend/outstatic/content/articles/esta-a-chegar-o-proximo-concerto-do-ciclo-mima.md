@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'esta-a-chegar-o-proximo-concerto-do-ciclo-mima'
 description: ''
-coverImage: '/images/7104160071934338096-Q3Nj.jpg'
+coverImage: '/images/sem-ti-tulo-1-MxMT.jpg'
 publishedAt: '2024-01-17T20:27:30.794Z'
 ---
 
