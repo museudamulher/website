@@ -1,6 +1,6 @@
 ---
 title: 'Foi assim a abertura do ciclo de música MIMA'
-status: 'draft'
+status: 'published'
 author:
   name: ' c'
   picture: ''
