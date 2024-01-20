@@ -1,12 +1,12 @@
 ---
 title: 'Foi assim a abertura do ciclo de música MIMA'
-status: 'published'
+status: 'draft'
 author:
   name: ' c'
   picture: ''
 slug: 'foi-assim-a-abertura-do-ciclo-de-musica-mima'
 description: ''
-coverImage: '/images/img_5523-U1NT.heic'
+coverImage: '/images/img_5523-Q1MD.heic'
 publishedAt: '2024-01-17T22:14:44.088Z'
 ---
 
