@@ -2,11 +2,11 @@
 title: 'Foi assim a abertura do ciclo de música MIMA'
 status: 'published'
 author:
-  name: ''
-  picture: 'https://avatars.githubusercontent.com/u/149510350?v=4'
+  name: ' c'
+  picture: ''
 slug: 'foi-assim-a-abertura-do-ciclo-de-musica-mima'
 description: ''
-coverImage: ''
+coverImage: '/images/img_5523-U1NT.heic'
 publishedAt: '2024-01-17T22:14:44.088Z'
 ---
 
