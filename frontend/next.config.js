@@ -9,7 +9,6 @@ module.exports = {
         protocol: 'https',
         hostname: 'www.carrismetropolitana.pt',
         port: '',
-        // pathname: '/account123/**'
       },
     ],
   },

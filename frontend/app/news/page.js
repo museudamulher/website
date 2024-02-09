@@ -1,3 +1,5 @@
+/* * */
+
 import News from '@/components/News/News';
 
 /* * */

@@ -1,3 +1,5 @@
+/* * */
+
 export default function manifest() {
   return {
     name: 'MIMA - Museu Internacional da Mulher',

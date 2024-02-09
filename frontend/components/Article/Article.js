@@ -1,3 +1,5 @@
+/* * */
+
 import Image from 'next/image';
 import styles from './Article.module.css';
 import AppWrapper from '@/components/AppWrapper/AppWrapper';
