@@ -27,11 +27,7 @@ export default async function HomepageConcerts() {
   return (
     <div className={styles.container}>
       <SectionTitle pt="Concertos" en="Concerts" />
-      <div className={styles.articlesGrid}>
-        {allConcertsData.map((article) => (
-          <LinkArticle key={article.slug} article={article} />
-        ))}
-      </div>
+      <div className={styles.articlesGrid}>{allConcertsData && allConcertsData.map((article) => <LinkArticle key={article.slug} article={article} />)}</div>
     </div>
   );
 
