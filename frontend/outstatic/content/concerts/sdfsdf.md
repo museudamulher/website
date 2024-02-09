@@ -9,4 +9,4 @@ description: ''
 publishedAt: '2024-02-09T22:02:27.005Z'
 ---
 
-dsfsdfd
+[Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024](https://www.rtp.pt/play/palco/p4521/concertosantena2)
