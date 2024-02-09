@@ -53,8 +53,8 @@ services:
   # # # # # # # # # # # # # # # # # # # # #
   # # # # # # # # # # # # # # # # # # # # #
 
-  frontend:
-    image: ghcr.io/museudamulher/website-frontend:production
+  nextjs:
+    image: ghcr.io/museudamulher/website-nextjs:production
     restart: unless-stopped
     logging:
       options:
