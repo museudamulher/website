@@ -1,0 +1,13 @@
+{
+  "title": "concerts",
+  "type": "object",
+  "properties": {
+    "externalUrl": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "External URL"
+    }
+  }
+}
