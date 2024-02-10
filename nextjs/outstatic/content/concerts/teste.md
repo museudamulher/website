@@ -1,6 +1,6 @@
 ---
 title: 'teste'
-status: 'draft'
+status: 'published'
 author:
   name: 'João de Vasconcelos'
   picture: 'https://avatars.githubusercontent.com/u/10943992?v=4'
