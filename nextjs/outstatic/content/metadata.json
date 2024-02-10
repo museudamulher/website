@@ -1,6 +1,6 @@
 {
-  "commit": "d6e41821e877b5f417b931bbd3abb82546ecb815",
-  "generated": "2024-02-10T01:00:41.389Z",
+  "commit": "1bc2409fc5bdb1ed55021198bc8c5598c28891b0",
+  "generated": "2024-02-10T01:06:32.212Z",
   "metadata": [
     {
       "__outstatic": {
@@ -268,8 +268,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d6e41821e877b5f417b931bbd3abb82546ecb815",
-        "hash": "1520143721",
+        "commit": "1bc2409fc5bdb1ed55021198bc8c5598c28891b0",
+        "hash": "2405822969",
         "path": "outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
       },
       "author": {
@@ -277,8 +277,7 @@
         "picture": "https://avatars.githubusercontent.com/u/149510350?v=4"
       },
       "collection": "concerts",
-      "coverImage": "/images/screenshot-2024-02-10-at-00.54.34-A4OT.png",
-      "description": "",
+      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
       "externalUrl": "https://www.rtp.pt/play/palco/p4521/concertosantena2",
       "publishedAt": "2024-01-17T22:14:51.000Z",
       "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
