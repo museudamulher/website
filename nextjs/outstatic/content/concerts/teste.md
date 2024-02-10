@@ -7,7 +7,7 @@ author:
 slug: 'teste'
 description: ''
 externalUrl: 'https://www.rtp.pt/play/palco/p4521/concertosantena2'
-publishedAt: '2024-02-10T00:47:51.288Z'
+publishedAt: '2024-01-17T22:14:51.000Z'
 ---
 
 teste
