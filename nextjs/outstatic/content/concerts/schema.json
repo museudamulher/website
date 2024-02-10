@@ -1,0 +1,13 @@
+{
+  "title": "concerts",
+  "type": "object",
+  "properties": {
+    "teste": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "teste"
+    }
+  }
+}
