@@ -1,25 +1,7 @@
 {
-  "commit": "5d5978a2e0456a3c46290e643e6eadcd103f4455",
-  "generated": "Sat, 10 Feb 2024 01:12:31 GMT",
+  "commit": "1b7ce9a40b38a4962a22ea99b4ff95902d82db35",
+  "generated": "Sat, 10 Feb 2024 01:17:02 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "a9249777a16f4f0dea76364faabefaa71af8c9a0",
-        "hash": "3556606545",
-        "path": "/outstatic/content/articles/ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/elvire-paiva-e-pona-e-joana-rolo--concerto-a2--museu-mu-sica-15-11-2019--lisboa-025-gwOT.jpg",
-      "description": "",
-      "publishedAt": "2023-12-19T16:06:23.989Z",
-      "slug": "ciclo-de-musica-mima",
-      "status": "published",
-      "title": "Ciclo de Música MIMA"
-    },
     {
       "__outstatic": {
         "commit": "997ffdda480546c3bc89b6802c07dd01de71cb1b",
@@ -37,6 +19,42 @@
       "slug": "marielle-franco",
       "status": "published",
       "title": "Obrigada, Marielle Franco!"
+    },
+    {
+      "__outstatic": {
+        "commit": "ab73a6bba95892e30f1131f9968e16383756e782",
+        "hash": "778672163",
+        "path": "/outstatic/content/articles/200-anos-de-cancoes-escritas-por-mulheres.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/dscf1510-Y5ND.jpg",
+      "description": "",
+      "publishedAt": "2023-12-19T16:15:46.068Z",
+      "slug": "200-anos-de-cancoes-escritas-por-mulheres",
+      "status": "published",
+      "title": "200 Anos de Canções escritas por Mulheres"
+    },
+    {
+      "__outstatic": {
+        "commit": "a9249777a16f4f0dea76364faabefaa71af8c9a0",
+        "hash": "3556606545",
+        "path": "/outstatic/content/articles/ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/elvire-paiva-e-pona-e-joana-rolo--concerto-a2--museu-mu-sica-15-11-2019--lisboa-025-gwOT.jpg",
+      "description": "",
+      "publishedAt": "2023-12-19T16:06:23.989Z",
+      "slug": "ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Ciclo de Música MIMA"
     },
     {
       "__outstatic": {
@@ -76,42 +94,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ab73a6bba95892e30f1131f9968e16383756e782",
-        "hash": "778672163",
-        "path": "/outstatic/content/articles/200-anos-de-cancoes-escritas-por-mulheres.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/dscf1510-Y5ND.jpg",
-      "description": "",
-      "publishedAt": "2023-12-19T16:15:46.068Z",
-      "slug": "200-anos-de-cancoes-escritas-por-mulheres",
-      "status": "published",
-      "title": "200 Anos de Canções escritas por Mulheres"
-    },
-    {
-      "__outstatic": {
-        "commit": "eba1d6fd2750424709870f087624387d5b4e998d",
-        "hash": "2264071919",
-        "path": "/outstatic/content/articles/no-goucha-de-22-janeiro-paula-castelar-falou-do-mima.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/paula-castelar-goucha-QwNz.jpg",
-      "description": "",
-      "publishedAt": "2024-01-29T19:59:44.504Z",
-      "slug": "no-goucha-de-22-janeiro-paula-castelar-falou-do-mima",
-      "status": "published",
-      "title": "No Goucha de 22 janeiro, Paula Castelar falou do MIMA"
-    },
-    {
-      "__outstatic": {
         "commit": "29618b8e994c68c62b4b2a150af652db0d27b44e",
         "hash": "1470145670",
         "path": "/outstatic/content/articles/o-mima-na-rede-de-clubes-unesco.md"
@@ -127,24 +109,6 @@
       "slug": "o-mima-na-rede-de-clubes-unesco",
       "status": "published",
       "title": "O MIMA na Rede de Clubes UNESCO"
-    },
-    {
-      "__outstatic": {
-        "commit": "391b7e81f31ca36c3b60c5551c31ee3ac652ae18",
-        "hash": "2783251703",
-        "path": "/outstatic/content/articles/nobel-da-paz-entregue-a-filhos-de-narges-mohammadi.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/img_5123-E0Nj.webp",
-      "description": "",
-      "publishedAt": "2023-12-11T22:12:58.798Z",
-      "slug": "nobel-da-paz-entregue-a-filhos-de-narges-mohammadi",
-      "status": "published",
-      "title": "Nobel da Paz entregue a filhos de Narges Mohammadi "
     },
     {
       "__outstatic": {
@@ -166,6 +130,42 @@
     },
     {
       "__outstatic": {
+        "commit": "391b7e81f31ca36c3b60c5551c31ee3ac652ae18",
+        "hash": "2783251703",
+        "path": "/outstatic/content/articles/nobel-da-paz-entregue-a-filhos-de-narges-mohammadi.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/img_5123-E0Nj.webp",
+      "description": "",
+      "publishedAt": "2023-12-11T22:12:58.798Z",
+      "slug": "nobel-da-paz-entregue-a-filhos-de-narges-mohammadi",
+      "status": "published",
+      "title": "Nobel da Paz entregue a filhos de Narges Mohammadi "
+    },
+    {
+      "__outstatic": {
+        "commit": "eba1d6fd2750424709870f087624387d5b4e998d",
+        "hash": "2264071919",
+        "path": "/outstatic/content/articles/no-goucha-de-22-janeiro-paula-castelar-falou-do-mima.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/paula-castelar-goucha-QwNz.jpg",
+      "description": "",
+      "publishedAt": "2024-01-29T19:59:44.504Z",
+      "slug": "no-goucha-de-22-janeiro-paula-castelar-falou-do-mima",
+      "status": "published",
+      "title": "No Goucha de 22 janeiro, Paula Castelar falou do MIMA"
+    },
+    {
+      "__outstatic": {
         "commit": "cc84844249d6e9740de7babc4461d2b3dcc5746f",
         "hash": "1709702116",
         "path": "/outstatic/content/articles/narges-mohammadi.md"
@@ -181,67 +181,6 @@
       "slug": "narges-mohammadi",
       "status": "published",
       "title": "Nobel da Paz para Narges Mohammadi, pela sua luta contra a opressão das mulheres no Irão"
-    },
-    {
-      "__outstatic": {
-        "commit": "4ea0660847f3836089efbede2ba5c768e8064d67",
-        "hash": "1577182357",
-        "path": "/outstatic/content/links/alma-mater.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "backgroundColor": "",
-      "collection": "links",
-      "coverImage": "/images/7429_11148_70587-UyNT.jpg",
-      "description": "Em Alma Mater, cada episódio apresenta dados biográficos de uma distinta figura e gravações resultantes da sua atividade musical, como instrumentista, cantora ou compositora.",
-      "externalUrl": "https://antena2.rtp.pt/programa/alma-mater/",
-      "publishedAt": "2022-01-04T00:48:44.000Z",
-      "slug": "alma-mater",
-      "status": "published",
-      "textColor": "",
-      "title": "Alma Mater"
-    },
-    {
-      "__outstatic": {
-        "commit": "791180607b7d11e8e8eb6be2ce91264c38b8aa91",
-        "hash": "1992814464",
-        "path": "/outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/149510350?v=4"
-      },
-      "collection": "concerts",
-      "coverImage": "/images/screenshot-2024-02-10-at-00.54.34-A4OT.png",
-      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
-      "externalUrl": "https://www.rtp.pt/play/palco/p4521/concertosantena2",
-      "publishedAt": "2024-01-17T22:14:51.000Z",
-      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
-      "status": "published",
-      "title": "Foi assim a abertura do ciclo de música MIMA"
-    },
-    {
-      "__outstatic": {
-        "commit": "ac571e018b2ab08c5ee0d56f8565125b472e1f09",
-        "hash": "888202861",
-        "path": "/outstatic/content/links/da-costela-de-adao.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "backgroundColor": "",
-      "collection": "links",
-      "coverImage": "/images/7145_10607_88680-Q1MT.jpg",
-      "description": "Paula Castelar revela em, Da Costela de Adão, histórias no feminino. Não é um programa de biografias, como o anterior No Tempo das Dálias, mas um espaço mais abrangente onde a autora deseja surpreender os ouvintes.",
-      "externalUrl": "https://antena2.rtp.pt/programa/da-costela-de-adao/",
-      "publishedAt": "2020-02-04T00:47:53.000Z",
-      "slug": "da-costela-de-adao",
-      "status": "published",
-      "textColor": "",
-      "title": "Da Costela de Adão"
     },
     {
       "__outstatic": {
@@ -266,6 +205,25 @@
     },
     {
       "__outstatic": {
+        "commit": "791180607b7d11e8e8eb6be2ce91264c38b8aa91",
+        "hash": "1992814464",
+        "path": "/outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/149510350?v=4"
+      },
+      "collection": "concerts",
+      "coverImage": "/images/screenshot-2024-02-10-at-00.54.34-A4OT.png",
+      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
+      "externalUrl": "https://www.rtp.pt/play/palco/p4521/concertosantena2",
+      "publishedAt": "2024-01-17T22:14:51.000Z",
+      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Foi assim a abertura do ciclo de música MIMA"
+    },
+    {
+      "__outstatic": {
         "commit": "ceb63e1e14bc580827c5e546ba3ca222c477a3d2",
         "hash": "951292143",
         "path": "/outstatic/content/links/no-tempo-das-dalias.md"
@@ -284,6 +242,48 @@
       "status": "published",
       "textColor": "",
       "title": "No Tempo das Dálias"
+    },
+    {
+      "__outstatic": {
+        "commit": "4ea0660847f3836089efbede2ba5c768e8064d67",
+        "hash": "1577182357",
+        "path": "/outstatic/content/links/alma-mater.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "backgroundColor": "",
+      "collection": "links",
+      "coverImage": "/images/7429_11148_70587-UyNT.jpg",
+      "description": "Em Alma Mater, cada episódio apresenta dados biográficos de uma distinta figura e gravações resultantes da sua atividade musical, como instrumentista, cantora ou compositora.",
+      "externalUrl": "https://antena2.rtp.pt/programa/alma-mater/",
+      "publishedAt": "2022-01-04T00:48:44.000Z",
+      "slug": "alma-mater",
+      "status": "published",
+      "textColor": "",
+      "title": "Alma Mater"
+    },
+    {
+      "__outstatic": {
+        "commit": "ac571e018b2ab08c5ee0d56f8565125b472e1f09",
+        "hash": "888202861",
+        "path": "/outstatic/content/links/da-costela-de-adao.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "backgroundColor": "",
+      "collection": "links",
+      "coverImage": "/images/7145_10607_88680-Q1MT.jpg",
+      "description": "Paula Castelar revela em, Da Costela de Adão, histórias no feminino. Não é um programa de biografias, como o anterior No Tempo das Dálias, mas um espaço mais abrangente onde a autora deseja surpreender os ouvintes.",
+      "externalUrl": "https://antena2.rtp.pt/programa/da-costela-de-adao/",
+      "publishedAt": "2020-02-04T00:47:53.000Z",
+      "slug": "da-costela-de-adao",
+      "status": "published",
+      "textColor": "",
+      "title": "Da Costela de Adão"
     }
   ]
 }
