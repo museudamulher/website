@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/10943992?v=4'
 slug: 'teste'
 description: ''
-coverImage: ''
+externalUrl: 'https://www.rtp.pt/play/palco/p4521/concertosantena2'
 publishedAt: '2024-02-10T00:47:51.288Z'
 ---
 

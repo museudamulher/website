@@ -1,6 +1,6 @@
 {
-  "commit": "97b05923dbcdbe35d9f955abf118417fe0ea0a79",
-  "generated": "2024-02-10T00:48:00.383Z",
+  "commit": "bc0814847816944efd1913b1fbd79ad2043eea98",
+  "generated": "2024-02-10T00:51:45.001Z",
   "metadata": [
     {
       "__outstatic": {
@@ -268,8 +268,8 @@
     },
     {
       "__outstatic": {
-        "commit": "97b05923dbcdbe35d9f955abf118417fe0ea0a79",
-        "hash": "1828135623",
+        "commit": "bc0814847816944efd1913b1fbd79ad2043eea98",
+        "hash": "3301545169",
         "path": "outstatic/content/concerts/teste.md"
       },
       "author": {
@@ -277,8 +277,8 @@
         "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
       },
       "collection": "concerts",
-      "coverImage": "",
       "description": "",
+      "externalUrl": "https://www.rtp.pt/play/palco/p4521/concertosantena2",
       "publishedAt": "2024-02-10T00:47:51.288Z",
       "slug": "teste",
       "status": "published",
