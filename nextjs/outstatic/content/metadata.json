@@ -1,6 +1,6 @@
 {
-  "commit": "cbaea58750cc1db7700ec86b1a19263ca5630bcc",
-  "generated": "2024-02-10T00:46:10.677Z",
+  "commit": "82e24bb9c29979114f4ceae53da23c31099d14bf",
+  "generated": "2024-02-10T00:47:25.147Z",
   "metadata": [
     {
       "__outstatic": {
@@ -282,24 +282,6 @@
       "status": "published",
       "textColor": "",
       "title": "Da Costela de Adão"
-    },
-    {
-      "__outstatic": {
-        "commit": "cbaea58750cc1db7700ec86b1a19263ca5630bcc",
-        "hash": "3471517516",
-        "path": "outstatic/content/concertos/iuyghuekjfsdnl.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "concertos",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-02-10T00:46:02.851Z",
-      "slug": "iuyghuekjfsdnl",
-      "status": "published",
-      "title": "iuyghuekjfsdnl"
     }
   ]
 }
