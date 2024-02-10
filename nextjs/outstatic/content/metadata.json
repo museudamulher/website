@@ -1,6 +1,6 @@
 {
-  "commit": "82e24bb9c29979114f4ceae53da23c31099d14bf",
-  "generated": "2024-02-10T00:47:25.147Z",
+  "commit": "3a35dcf913be5f98901eb183377fd141f9469828",
+  "generated": "2024-02-10T00:47:28.337Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,23 +202,6 @@
       "status": "published",
       "textColor": "",
       "title": "No Tempo das Dálias"
-    },
-    {
-      "__outstatic": {
-        "commit": "96c37d4e638aa84b41e706a27b51a1caf6eafc02",
-        "hash": "3995485607",
-        "path": "/outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "concerts",
-      "description": "",
-      "publishedAt": "2024-01-17T22:14:27.000Z",
-      "slug": "sdfsdf",
-      "status": "draft",
-      "title": "Foi assim a abertura do ciclo de música MIMA"
     },
     {
       "__outstatic": {
