@@ -1,6 +1,6 @@
 {
   "commit": "4a276454fbb46195c0f878bb9a20f18f9717197a",
-  "generated": "Sat, 10 Feb 2024 00:37:07 GMT",
+  "generated": "Sat, 10 Feb 2024 00:44:23 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -13,7 +13,6 @@
         "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
       },
       "collection": "articles",
-      "coverImage": "/images/screenshot-2023-10-15-at-15.28.32-k4NT.png",
       "description": "",
       "publishedAt": "2018-03-16T14:41:50.000Z",
       "slug": "marielle-franco",
@@ -31,12 +30,28 @@
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/sem-ti-tulo-1-g4OT.jpg",
       "description": "",
       "publishedAt": "2024-01-17T20:27:30.794Z",
       "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
       "status": "published",
       "title": "Está a chegar o próximo concerto do CICLO MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "a9249777a16f4f0dea76364faabefaa71af8c9a0",
+        "hash": "3556606545",
+        "path": "/outstatic/content/articles/ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "description": "",
+      "publishedAt": "2023-12-19T16:06:23.989Z",
+      "slug": "ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Ciclo de Música MIMA"
     },
     {
       "__outstatic": {
@@ -49,7 +64,6 @@
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/foto-protocolo-mima-cwMT.jpg",
       "description": "",
       "publishedAt": "2023-11-29T01:59:08.113Z",
       "slug": "assinatura-do-protocolo-de-parceria-entre-o-mima-e-a-junta-de-freguesia-de-benfica",
@@ -67,30 +81,11 @@
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/dscf1510-Y5ND.jpg",
       "description": "",
       "publishedAt": "2023-12-19T16:15:46.068Z",
       "slug": "200-anos-de-cancoes-escritas-por-mulheres",
       "status": "published",
       "title": "200 Anos de Canções escritas por Mulheres"
-    },
-    {
-      "__outstatic": {
-        "commit": "a9249777a16f4f0dea76364faabefaa71af8c9a0",
-        "hash": "3556606545",
-        "path": "/outstatic/content/articles/ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/elvire-paiva-e-pona-e-joana-rolo--concerto-a2--museu-mu-sica-15-11-2019--lisboa-025-gwOT.jpg",
-      "description": "",
-      "publishedAt": "2023-12-19T16:06:23.989Z",
-      "slug": "ciclo-de-musica-mima",
-      "status": "published",
-      "title": "Ciclo de Música MIMA"
     },
     {
       "__outstatic": {
@@ -103,7 +98,6 @@
         "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
       },
       "collection": "articles",
-      "coverImage": "",
       "description": "",
       "publishedAt": "2018-03-02T16:02:23.000Z",
       "slug": "relatorio-da-igualdade-de-genero-em-portugal-2018",
@@ -121,7 +115,6 @@
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/protocolo-unesco-mima-c2MT.jpg",
       "description": "",
       "publishedAt": "2023-11-29T01:55:15.412Z",
       "slug": "o-mima-na-rede-de-clubes-unesco",
@@ -139,30 +132,11 @@
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/img_5123-E0Nj.webp",
       "description": "",
       "publishedAt": "2023-12-11T22:12:58.798Z",
       "slug": "nobel-da-paz-entregue-a-filhos-de-narges-mohammadi",
       "status": "published",
       "title": "Nobel da Paz entregue a filhos de Narges Mohammadi "
-    },
-    {
-      "__outstatic": {
-        "commit": "cc84844249d6e9740de7babc4461d2b3dcc5746f",
-        "hash": "1709702116",
-        "path": "/outstatic/content/articles/narges-mohammadi.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "articles",
-      "coverImage": "/images/img_1704-Y3Mj.png",
-      "description": "",
-      "publishedAt": "2023-09-10T21:03:58.000Z",
-      "slug": "narges-mohammadi",
-      "status": "published",
-      "title": "Nobel da Paz para Narges Mohammadi, pela sua luta contra a opressão das mulheres no Irão"
     },
     {
       "__outstatic": {
@@ -175,7 +149,6 @@
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/paula-castelar-goucha-QwNz.jpg",
       "description": "",
       "publishedAt": "2024-01-29T19:59:44.504Z",
       "slug": "no-goucha-de-22-janeiro-paula-castelar-falou-do-mima",
@@ -184,24 +157,20 @@
     },
     {
       "__outstatic": {
-        "commit": "ac571e018b2ab08c5ee0d56f8565125b472e1f09",
-        "hash": "888202861",
-        "path": "/outstatic/content/links/da-costela-de-adao.md"
+        "commit": "cc84844249d6e9740de7babc4461d2b3dcc5746f",
+        "hash": "1709702116",
+        "path": "/outstatic/content/articles/narges-mohammadi.md"
       },
       "author": {
         "name": "João de Vasconcelos",
         "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
       },
-      "backgroundColor": "",
-      "collection": "links",
-      "coverImage": "/images/7145_10607_88680-Q1MT.jpg",
-      "description": "Paula Castelar revela em, Da Costela de Adão, histórias no feminino. Não é um programa de biografias, como o anterior No Tempo das Dálias, mas um espaço mais abrangente onde a autora deseja surpreender os ouvintes.",
-      "externalUrl": "https://antena2.rtp.pt/programa/da-costela-de-adao/",
-      "publishedAt": "2020-02-04T00:47:53.000Z",
-      "slug": "da-costela-de-adao",
+      "collection": "articles",
+      "description": "",
+      "publishedAt": "2023-09-10T21:03:58.000Z",
+      "slug": "narges-mohammadi",
       "status": "published",
-      "textColor": "",
-      "title": "Da Costela de Adão"
+      "title": "Nobel da Paz para Narges Mohammadi, pela sua luta contra a opressão das mulheres no Irão"
     },
     {
       "__outstatic": {
@@ -215,7 +184,6 @@
       },
       "backgroundColor": "",
       "collection": "links",
-      "coverImage": "/images/6997_10131_80755-E0OD.jpg",
       "description": "Série de pequenas biografias radiofónicas sobre figuras femininas lusófonas já desaparecidas.",
       "externalUrl": "https://antena2.rtp.pt/programa/no-tempo-das-dalias/",
       "publishedAt": "2019-01-01T01:00:46.000Z",
@@ -223,6 +191,26 @@
       "status": "published",
       "textColor": "",
       "title": "No Tempo das Dálias"
+    },
+    {
+      "__outstatic": {
+        "commit": "ac571e018b2ab08c5ee0d56f8565125b472e1f09",
+        "hash": "888202861",
+        "path": "/outstatic/content/links/da-costela-de-adao.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "backgroundColor": "",
+      "collection": "links",
+      "description": "Paula Castelar revela em, Da Costela de Adão, histórias no feminino. Não é um programa de biografias, como o anterior No Tempo das Dálias, mas um espaço mais abrangente onde a autora deseja surpreender os ouvintes.",
+      "externalUrl": "https://antena2.rtp.pt/programa/da-costela-de-adao/",
+      "publishedAt": "2020-02-04T00:47:53.000Z",
+      "slug": "da-costela-de-adao",
+      "status": "published",
+      "textColor": "",
+      "title": "Da Costela de Adão"
     },
     {
       "__outstatic": {
@@ -236,7 +224,6 @@
       },
       "backgroundColor": "",
       "collection": "links",
-      "coverImage": "/images/41752_64452_50329-k2NT.jpg",
       "description": "Retrato de uma das atrizes portuguesas mais queridas em Portugal e no Brasil durante as décadas de 30 e 40 do século XX.",
       "externalUrl": "https://www.rtp.pt/programa/tv/p41752",
       "publishedAt": "2022-01-02T00:24:18.000Z",
@@ -244,6 +231,26 @@
       "status": "published",
       "textColor": "",
       "title": "Beatriz Costa: A Alegria é a Minha Religião"
+    },
+    {
+      "__outstatic": {
+        "commit": "4ea0660847f3836089efbede2ba5c768e8064d67",
+        "hash": "1577182357",
+        "path": "/outstatic/content/links/alma-mater.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "backgroundColor": "",
+      "collection": "links",
+      "description": "Em Alma Mater, cada episódio apresenta dados biográficos de uma distinta figura e gravações resultantes da sua atividade musical, como instrumentista, cantora ou compositora.",
+      "externalUrl": "https://antena2.rtp.pt/programa/alma-mater/",
+      "publishedAt": "2022-01-04T00:48:44.000Z",
+      "slug": "alma-mater",
+      "status": "published",
+      "textColor": "",
+      "title": "Alma Mater"
     },
     {
       "__outstatic": {
@@ -261,27 +268,6 @@
       "slug": "sdfsdf",
       "status": "draft",
       "title": "Foi assim a abertura do ciclo de música MIMA"
-    },
-    {
-      "__outstatic": {
-        "commit": "4ea0660847f3836089efbede2ba5c768e8064d67",
-        "hash": "1577182357",
-        "path": "/outstatic/content/links/alma-mater.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "backgroundColor": "",
-      "collection": "links",
-      "coverImage": "/images/7429_11148_70587-UyNT.jpg",
-      "description": "Em Alma Mater, cada episódio apresenta dados biográficos de uma distinta figura e gravações resultantes da sua atividade musical, como instrumentista, cantora ou compositora.",
-      "externalUrl": "https://antena2.rtp.pt/programa/alma-mater/",
-      "publishedAt": "2022-01-04T00:48:44.000Z",
-      "slug": "alma-mater",
-      "status": "published",
-      "textColor": "",
-      "title": "Alma Mater"
     }
   ]
 }
