@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Start Frontend",
+      "label": "Start NextJS",
       "detail": "Start local development server with 'npm run dev'",
       "type": "npm",
       "script": "dev",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "label": "Install Frontend Dependencies",
+      "label": "Install NextJS Dependencies",
       "detail": "Install project dependencies.",
       "type": "npm",
       "script": "install",
@@ -25,7 +25,7 @@
       "type": "npm",
       "script": "bump",
       "problemMatcher": [],
-      "label": "Bump Frontend Version",
+      "label": "Bump NextJS Version",
       "detail": "Increase version number to now.",
       "options": {
         "cwd": "${workspaceFolder}/nextjs"
