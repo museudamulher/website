@@ -2,8 +2,8 @@
 
 import { getDocuments } from 'outstatic/server';
 import styles from './HomepageConcerts.module.css';
-import LinkArticle from '@/components/LinkArticle/LinkArticle';
 import SectionTitle from '@/components/SectionTitle/SectionTitle';
+import ConcertArticle from '@/components/ConcertArticle/ConcertArticle';
 
 /* * */
 
@@ -27,7 +27,7 @@ export default async function HomepageConcerts() {
   return (
     <div className={styles.container}>
       <SectionTitle pt="Concertos" en="Concerts" />
-      <div className={styles.articlesGrid}>{allConcertsData && allConcertsData.map((article) => <LinkArticle key={article.slug} article={article} />)}</div>
+      <div className={styles.articlesGrid}>{allConcertsData && allConcertsData.map((article) => <ConcertArticle key={article.slug} article={article} />)}</div>
     </div>
   );
 
