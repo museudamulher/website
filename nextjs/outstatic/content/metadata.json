@@ -1,6 +1,6 @@
 {
-  "commit": "1b7ce9a40b38a4962a22ea99b4ff95902d82db35",
-  "generated": "Sat, 10 Feb 2024 01:17:02 GMT",
+  "commit": "7781e2babc210b83d420ed223215b13c1030b02e",
+  "generated": "2024-02-20T14:35:52.955Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "ciclo-de-musica-mima",
       "status": "published",
       "title": "Ciclo de Música MIMA"
-    },
-    {
-      "__outstatic": {
-        "commit": "d4d65edd5e8505f529533aa2ae1e0c7a4c717484",
-        "hash": "4247602030",
-        "path": "/outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/sem-ti-tulo-1-g4OT.jpg",
-      "description": "",
-      "publishedAt": "2024-01-17T20:27:30.794Z",
-      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
-      "status": "published",
-      "title": "Está a chegar o próximo concerto do CICLO MIMA"
     },
     {
       "__outstatic": {
@@ -284,6 +266,24 @@
       "status": "published",
       "textColor": "",
       "title": "Da Costela de Adão"
+    },
+    {
+      "__outstatic": {
+        "commit": "7781e2babc210b83d420ed223215b13c1030b02e",
+        "hash": "1228839919",
+        "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
+      },
+      "author": {
+        "name": "C",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/crua2024-A1Mj.jpg",
+      "description": "",
+      "publishedAt": "2024-02-20T14:33:58.660Z",
+      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
+      "status": "published",
+      "title": "Está a chegar o próximo concerto do CICLO MIMA"
     }
   ]
 }

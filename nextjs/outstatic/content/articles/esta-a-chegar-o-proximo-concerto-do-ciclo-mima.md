@@ -2,18 +2,22 @@
 title: 'Está a chegar o próximo concerto do CICLO MIMA'
 status: 'published'
 author:
-  name: 'c'
+  name: 'C'
   picture: ''
 slug: 'esta-a-chegar-o-proximo-concerto-do-ciclo-mima'
 description: ''
-coverImage: '/images/sem-ti-tulo-1-g4OT.jpg'
-publishedAt: '2024-01-17T20:27:30.794Z'
+coverImage: '/images/crua2024-A1Mj.jpg'
+publishedAt: '2024-02-20T14:33:58.660Z'
 ---
 
-**Anaís Dias** (cantora e compositora)
+CRUA - grupo feminino de música de raiz tradicional
 
-**Pedro Lopes** (piano)
+Voz, adufe, instrumentos de percussão:
 
-**José Amoreira** (contrabaixo)
+Ana Trabulo
 
-**João Ventura** (bateria)
+Diana Ferreira Martins
+
+Ana Costa Rita Só
+
+Liliana Abreu
