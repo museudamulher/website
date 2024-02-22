@@ -6,10 +6,12 @@ author:
   picture: ''
 slug: 'esta-a-chegar-o-proximo-concerto-do-ciclo-mima'
 description: ''
-coverImage: '/images/crua2024-A1Mj.jpg'
 publishedAt: '2024-02-20T14:33:58.660Z'
 ---
 
+5 de Março - TEATRO TURIM 
+
+\
 CRUA - grupo feminino de música de raiz tradicional
 
 Voz, adufe, instrumentos de percussão:

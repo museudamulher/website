@@ -1,6 +1,6 @@
 {
-  "commit": "7781e2babc210b83d420ed223215b13c1030b02e",
-  "generated": "2024-02-20T14:35:52.955Z",
+  "commit": "fe974a9d4f45013885de0cfe6babb065c5de4a6a",
+  "generated": "2024-02-22T15:20:35.429Z",
   "metadata": [
     {
       "__outstatic": {
@@ -269,8 +269,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7781e2babc210b83d420ed223215b13c1030b02e",
-        "hash": "1228839919",
+        "commit": "fe974a9d4f45013885de0cfe6babb065c5de4a6a",
+        "hash": "2641292907",
         "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
       },
       "author": {
@@ -278,7 +278,6 @@
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/crua2024-A1Mj.jpg",
       "description": "",
       "publishedAt": "2024-02-20T14:33:58.660Z",
       "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
