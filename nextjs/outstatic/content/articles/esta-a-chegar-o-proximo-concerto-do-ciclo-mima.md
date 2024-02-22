@@ -9,7 +9,7 @@ description: ''
 publishedAt: '2024-02-20T14:33:58.660Z'
 ---
 
-5 de Março, 19 H, Teatro Turim 
+5 de Março, 19 H, Teatro Turim
 
 Apresentação: Paula Castelar
 
