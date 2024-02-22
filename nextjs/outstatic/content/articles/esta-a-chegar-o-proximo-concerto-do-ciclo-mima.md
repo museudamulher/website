@@ -9,10 +9,14 @@ description: ''
 publishedAt: '2024-02-20T14:33:58.660Z'
 ---
 
-5 de Março - TEATRO TURIM 
+5 de Março, 19 H, Teatro Turim 
+
+Apresentação: Paula Castelar
+
+Transmissão em direto na Antena 2
 
 \
-CRUA - grupo feminino de música de raiz tradicional
+**CRUA - grupo feminino de música de raiz tradicional**
 
 Voz, adufe, instrumentos de percussão:
 
