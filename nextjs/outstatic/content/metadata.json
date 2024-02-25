@@ -1,6 +1,6 @@
 {
-  "commit": "219aaf17bd622a71709eb5422cb9679ae392cafc",
-  "generated": "2024-02-25T15:17:35.598Z",
+  "commit": "0d53ac3e66043d8216d7a6835d117afe499680bc",
+  "generated": "2024-02-25T15:19:12.870Z",
   "metadata": [
     {
       "__outstatic": {
@@ -187,25 +187,6 @@
     },
     {
       "__outstatic": {
-        "commit": "791180607b7d11e8e8eb6be2ce91264c38b8aa91",
-        "hash": "1992814464",
-        "path": "/outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/149510350?v=4"
-      },
-      "collection": "concerts",
-      "coverImage": "/images/screenshot-2024-02-10-at-00.54.34-A4OT.png",
-      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
-      "externalUrl": "https://www.rtp.pt/play/palco/p4521/concertosantena2",
-      "publishedAt": "2024-01-17T22:14:51.000Z",
-      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
-      "status": "published",
-      "title": "Foi assim a abertura do ciclo de música MIMA"
-    },
-    {
-      "__outstatic": {
         "commit": "ceb63e1e14bc580827c5e546ba3ca222c477a3d2",
         "hash": "951292143",
         "path": "/outstatic/content/links/no-tempo-das-dalias.md"
@@ -302,6 +283,24 @@
       "slug": "2o-concerto-do-ciclo-de-musica-mima-anais-quarteto",
       "status": "published",
       "title": "2º Concerto do Ciclo de Música MIMA - Anaís Quarteto  "
+    },
+    {
+      "__outstatic": {
+        "commit": "0d53ac3e66043d8216d7a6835d117afe499680bc",
+        "hash": "2405822969",
+        "path": "outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/149510350?v=4"
+      },
+      "collection": "concerts",
+      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
+      "externalUrl": "https://www.rtp.pt/play/palco/p4521/concertosantena2",
+      "publishedAt": "2024-01-17T22:14:51.000Z",
+      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Foi assim a abertura do ciclo de música MIMA"
     }
   ]
 }
