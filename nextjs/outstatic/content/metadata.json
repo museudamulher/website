@@ -1,6 +1,6 @@
 {
-  "commit": "eb12b2fa7fc9fd412e297e52363a1e6045244c00",
-  "generated": "2024-02-25T15:07:28.470Z",
+  "commit": "219aaf17bd622a71709eb5422cb9679ae392cafc",
+  "generated": "2024-02-25T15:17:35.598Z",
   "metadata": [
     {
       "__outstatic": {
@@ -283,6 +283,25 @@
       "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
       "status": "published",
       "title": "Está a chegar o próximo concerto do CICLO MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "219aaf17bd622a71709eb5422cb9679ae392cafc",
+        "hash": "1719309068",
+        "path": "outstatic/content/concerts/2o-concerto-do-ciclo-de-musica-mima-anais-quarteto.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "concerts",
+      "coverImage": "/images/captura-de-ecra--2024-02-25--a-s-15.15.36-MwOD.png",
+      "description": "",
+      "externalUrl": "https://antena2.rtp.pt/em-antena/mais-concertos/anais-quarteto-6-fevereiro-19h00/",
+      "publishedAt": "2024-02-25T15:08:54.856Z",
+      "slug": "2o-concerto-do-ciclo-de-musica-mima-anais-quarteto",
+      "status": "published",
+      "title": "2º Concerto do Ciclo de Música MIMA - Anaís Quarteto  "
     }
   ]
 }
