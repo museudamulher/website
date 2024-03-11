@@ -6,6 +6,7 @@ author:
   picture: ''
 slug: 'esta-a-chegar-o-proximo-concerto-do-ciclo-mima'
 description: ''
+coverImage: '/images/captura-de-ecra--2024-03-11--a-s-15.49.52-A5Mj.png'
 publishedAt: '2024-02-20T14:33:58.660Z'
 ---
 

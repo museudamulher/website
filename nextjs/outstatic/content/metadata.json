@@ -1,6 +1,6 @@
 {
-  "commit": "21f4b0161e073ddb673fe3599bcb603e45b8c9eb",
-  "generated": "2024-03-11T15:32:27.822Z",
+  "commit": "6e9d811172d921a6e906708e353ae32eb00d5e2c",
+  "generated": "2024-03-11T15:51:30.532Z",
   "metadata": [
     {
       "__outstatic": {
@@ -250,23 +250,6 @@
     },
     {
       "__outstatic": {
-        "commit": "eb12b2fa7fc9fd412e297e52363a1e6045244c00",
-        "hash": "2246989376",
-        "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
-      },
-      "author": {
-        "name": "C",
-        "picture": ""
-      },
-      "collection": "articles",
-      "description": "",
-      "publishedAt": "2024-02-20T14:33:58.660Z",
-      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
-      "status": "published",
-      "title": "Está a chegar o próximo concerto do CICLO MIMA"
-    },
-    {
-      "__outstatic": {
         "commit": "219aaf17bd622a71709eb5422cb9679ae392cafc",
         "hash": "1719309068",
         "path": "outstatic/content/concerts/2o-concerto-do-ciclo-de-musica-mima-anais-quarteto.md"
@@ -337,6 +320,24 @@
       "slug": "parecer-do-conselho-fiscal-mima",
       "status": "published",
       "title": "Parecer do Conselho Fiscal MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "6e9d811172d921a6e906708e353ae32eb00d5e2c",
+        "hash": "2937722450",
+        "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
+      },
+      "author": {
+        "name": "C",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/captura-de-ecra--2024-03-11--a-s-15.49.52-A5Mj.png",
+      "description": "",
+      "publishedAt": "2024-02-20T14:33:58.660Z",
+      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
+      "status": "published",
+      "title": "Está a chegar o próximo concerto do CICLO MIMA"
     }
   ]
 }
