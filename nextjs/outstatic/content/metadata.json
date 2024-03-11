@@ -1,6 +1,6 @@
 {
-  "commit": "9eaaae607eaecd206a0eb2f74be07a026cf66a5d",
-  "generated": "2024-03-11T15:30:11.216Z",
+  "commit": "21f4b0161e073ddb673fe3599bcb603e45b8c9eb",
+  "generated": "2024-03-11T15:32:27.822Z",
   "metadata": [
     {
       "__outstatic": {
@@ -319,6 +319,24 @@
       "slug": "acta-do-conselho-fiscal-mima",
       "status": "published",
       "title": "Acta do Conselho Fiscal MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "21f4b0161e073ddb673fe3599bcb603e45b8c9eb",
+        "hash": "2079515876",
+        "path": "outstatic/content/articles/parecer-do-conselho-fiscal-mima.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/captura-de-ecra--2024-03-11--a-s-15.31.20-Q3ND.png",
+      "description": "",
+      "publishedAt": "2024-03-11T15:31:33.588Z",
+      "slug": "parecer-do-conselho-fiscal-mima",
+      "status": "published",
+      "title": "Parecer do Conselho Fiscal MIMA"
     }
   ]
 }
