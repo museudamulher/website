@@ -1,6 +1,6 @@
 {
-  "commit": "a9f7423a3ddded39bd0468f8cc88b0813c0c744e",
-  "generated": "2024-02-25T15:23:33.999Z",
+  "commit": "9eaaae607eaecd206a0eb2f74be07a026cf66a5d",
+  "generated": "2024-03-11T15:30:11.216Z",
   "metadata": [
     {
       "__outstatic": {
@@ -301,6 +301,24 @@
       "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
       "status": "published",
       "title": "Foi assim a abertura do ciclo de música MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "9eaaae607eaecd206a0eb2f74be07a026cf66a5d",
+        "hash": "1092511190",
+        "path": "outstatic/content/articles/acta-do-conselho-fiscal-mima.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/captura-de-ecra--2024-03-11--a-s-15.29.26-AwNT.png",
+      "description": "",
+      "publishedAt": "2024-03-11T15:27:59.154Z",
+      "slug": "acta-do-conselho-fiscal-mima",
+      "status": "published",
+      "title": "Acta do Conselho Fiscal MIMA"
     }
   ]
 }
