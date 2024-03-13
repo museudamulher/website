@@ -1,0 +1,13 @@
+{
+  "title": "documents",
+  "type": "object",
+  "properties": {
+    "fileUrl": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "File URL"
+    }
+  }
+}
