@@ -1,6 +1,6 @@
 {
-  "commit": "41be1fab7660f1c549a66b22edf46a740c756f21",
-  "generated": "2024-03-13T22:19:28.505Z",
+  "commit": "2a848c9555e59d44c9b914e375c0834b89565057",
+  "generated": "2024-03-13T22:20:49.342Z",
   "metadata": [
     {
       "__outstatic": {
@@ -415,6 +415,25 @@
       "slug": "balanco-2023",
       "status": "published",
       "title": "Balanço (2023)"
+    },
+    {
+      "__outstatic": {
+        "commit": "2a848c9555e59d44c9b914e375c0834b89565057",
+        "hash": "3403902387",
+        "path": "outstatic/content/documents/relatorio-de-gestao-2023.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "MIMA_Relatorio_Gestao_2023.pdf",
+      "publishedAt": "2024-03-13T22:20:04.173Z",
+      "slug": "relatorio-de-gestao-2023",
+      "status": "published",
+      "title": "Relatório de Gestão (2023)"
     }
   ]
 }
