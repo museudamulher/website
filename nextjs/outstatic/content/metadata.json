@@ -1,6 +1,6 @@
 {
-  "commit": "6e9d811172d921a6e906708e353ae32eb00d5e2c",
-  "generated": "2024-03-11T15:51:30.532Z",
+  "commit": "0f2c673129dde94e8da5ce15be117f2b6f575887",
+  "generated": "2024-03-13T21:43:33.245Z",
   "metadata": [
     {
       "__outstatic": {
@@ -338,6 +338,24 @@
       "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
       "status": "published",
       "title": "Está a chegar o próximo concerto do CICLO MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "0f2c673129dde94e8da5ce15be117f2b6f575887",
+        "hash": "3334141054",
+        "path": "outstatic/content/documents/teste.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-13T21:43:20.604Z",
+      "slug": "teste",
+      "status": "published",
+      "title": "teste"
     }
   ]
 }
