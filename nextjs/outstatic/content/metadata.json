@@ -1,6 +1,6 @@
 {
-  "commit": "0f2c673129dde94e8da5ce15be117f2b6f575887",
-  "generated": "2024-03-13T21:43:33.245Z",
+  "commit": "e639be24ac22680817aea9739e7bb71a5cc9f867",
+  "generated": "2024-03-13T22:07:46.097Z",
   "metadata": [
     {
       "__outstatic": {
@@ -341,9 +341,9 @@
     },
     {
       "__outstatic": {
-        "commit": "0f2c673129dde94e8da5ce15be117f2b6f575887",
-        "hash": "3334141054",
-        "path": "outstatic/content/documents/teste.md"
+        "commit": "e639be24ac22680817aea9739e7bb71a5cc9f867",
+        "hash": "1473347205",
+        "path": "outstatic/content/documents/estatutos.md"
       },
       "author": {
         "name": "João de Vasconcelos",
@@ -352,10 +352,11 @@
       "collection": "documents",
       "coverImage": "",
       "description": "",
+      "fileUrl": "https://museudamulher.com/docs/MIMA-Estatutos.pdf",
       "publishedAt": "2024-03-13T21:43:20.604Z",
-      "slug": "teste",
+      "slug": "estatutos",
       "status": "published",
-      "title": "teste"
+      "title": "Estatutos"
     }
   ]
 }
