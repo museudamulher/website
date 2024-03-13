@@ -1,6 +1,6 @@
 {
-  "commit": "794c2c6a0254329bbe9253150e2f62f56da1216e",
-  "generated": "2024-03-13T22:18:24.492Z",
+  "commit": "41be1fab7660f1c549a66b22edf46a740c756f21",
+  "generated": "2024-03-13T22:19:28.505Z",
   "metadata": [
     {
       "__outstatic": {
@@ -396,6 +396,25 @@
       "slug": "balancete-acumulado-2023",
       "status": "published",
       "title": "Balancete Acumulado (2023)"
+    },
+    {
+      "__outstatic": {
+        "commit": "41be1fab7660f1c549a66b22edf46a740c756f21",
+        "hash": "2454964655",
+        "path": "outstatic/content/documents/balanco-2023.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "Balanco_MIMA_2023.pdf",
+      "publishedAt": "2024-03-13T22:18:30.385Z",
+      "slug": "balanco-2023",
+      "status": "published",
+      "title": "Balanço (2023)"
     }
   ]
 }
