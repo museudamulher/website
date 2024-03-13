@@ -2,13 +2,6 @@
   "title": "documents",
   "type": "object",
   "properties": {
-    "fileUrl": {
-      "required": true,
-      "description": "",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "File URL"
-    },
     "fileName": {
       "required": true,
       "description": "The exact filename and extension of a file residing in the public /docs directory.",
