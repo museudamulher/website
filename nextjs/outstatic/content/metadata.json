@@ -1,6 +1,6 @@
 {
-  "commit": "a4eb6c8bb5a4f9b859e05ffac96e9f4d79a5619f",
-  "generated": "2024-03-13T22:10:16.448Z",
+  "commit": "6aa70e563f80e764f8cb0acab7d843e02e40e60d",
+  "generated": "2024-03-13T22:14:55.409Z",
   "metadata": [
     {
       "__outstatic": {
@@ -358,6 +358,25 @@
       "slug": "estatutos",
       "status": "published",
       "title": "Estatutos"
+    },
+    {
+      "__outstatic": {
+        "commit": "6aa70e563f80e764f8cb0acab7d843e02e40e60d",
+        "hash": "2122143266",
+        "path": "outstatic/content/documents/demonstracao-de-resultados-2023.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "DR_MIMA_2023.pdf",
+      "publishedAt": "2024-03-13T22:13:41.388Z",
+      "slug": "demonstracao-de-resultados-2023",
+      "status": "published",
+      "title": "Demonstração de Resultados (2023)"
     }
   ]
 }
