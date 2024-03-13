@@ -1,6 +1,6 @@
 {
-  "commit": "2a848c9555e59d44c9b914e375c0834b89565057",
-  "generated": "2024-03-13T22:20:49.342Z",
+  "commit": "362cd8b4609df07b7c376dc2b04aa905fd301b98",
+  "generated": "2024-03-13T22:55:15.324Z",
   "metadata": [
     {
       "__outstatic": {
@@ -434,6 +434,25 @@
       "slug": "relatorio-de-gestao-2023",
       "status": "published",
       "title": "Relatório de Gestão (2023)"
+    },
+    {
+      "__outstatic": {
+        "commit": "362cd8b4609df07b7c376dc2b04aa905fd301b98",
+        "hash": "889407247",
+        "path": "outstatic/content/documents/acta-do-conselho-fiscal.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "Ata_1_Conselho_Fiscal_MIMA.pdf",
+      "publishedAt": "2024-03-13T22:54:06.138Z",
+      "slug": "acta-do-conselho-fiscal",
+      "status": "published",
+      "title": "Acta do Conselho Fiscal"
     }
   ]
 }
