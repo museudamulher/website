@@ -1,0 +1,56 @@
+/* * */
+/* CONTAINER */
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: var(--reference-0);
+  transition: all 300ms ease;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--gray-2);
+}
+
+.container:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* * */
+/* COLOR LINE */
+
+.colorLine {
+  width: 100%;
+  height: 10px;
+}
+
+/* * */
+/* CONTENT */
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px 20px;
+}
+
+/* * */
+/* TITLE */
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--reference-1);
+}
+
+/* * */
+/* DESCRIPTION */
+
+.description {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--gray-6);
+}

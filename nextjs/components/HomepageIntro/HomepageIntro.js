@@ -27,18 +27,10 @@ export default function HomepageIntro() {
       </div>
       <div className={styles.links}>
         <p className={styles.linkPt}>
-          Pode consultar os Estatutos desta instituição{' '}
-          <Link href="/docs/MIMA-Estatutos.pdf" target="_blank">
-            aqui
-          </Link>
-          .
+          Pode consultar os Estatutos desta instituição e outros documentos <Link href="/documents">aqui</Link>.
         </p>
         <p className={styles.linkEn}>
-          Our legal statutes can be found{' '}
-          <Link href="/docs/MIMA-Estatutos.pdf" target="_blank">
-            here
-          </Link>
-          .
+          Our legal statutes and other documents can be found <Link href="/documents">here</Link>.
         </p>
       </div>
     </div>
