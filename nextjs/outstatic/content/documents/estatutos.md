@@ -8,6 +8,7 @@ status: 'published'
 slug: 'estatutos'
 description: ''
 fileUrl: 'https://museudamulher.com/docs/MIMA-Estatutos.pdf'
+fileName: 'MIMA-Estatutos.pdf'
 publishedAt: '2024-03-13T21:43:20.604Z'
 ---
 
