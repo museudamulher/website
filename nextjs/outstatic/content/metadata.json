@@ -1,6 +1,6 @@
 {
-  "commit": "164f93642119e2e4f0565a59706718014ca830ff",
-  "generated": "2024-03-25T04:13:09.590Z",
+  "commit": "880b89d5d0c90baa56da54248723ed3e3a8a4ff6",
+  "generated": "2024-03-25T04:21:22.210Z",
   "metadata": [
     {
       "__outstatic": {
@@ -287,24 +287,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6e9d811172d921a6e906708e353ae32eb00d5e2c",
-        "hash": "2937722450",
-        "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
-      },
-      "author": {
-        "name": "C",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/captura-de-ecra--2024-03-11--a-s-15.49.52-A5Mj.png",
-      "description": "",
-      "publishedAt": "2024-02-20T14:33:58.660Z",
-      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
-      "status": "published",
-      "title": "Está a chegar o próximo concerto do CICLO MIMA"
-    },
-    {
-      "__outstatic": {
         "commit": "a4eb6c8bb5a4f9b859e05ffac96e9f4d79a5619f",
         "hash": "1898758547",
         "path": "outstatic/content/documents/estatutos.md"
@@ -455,6 +437,24 @@
       "slug": "3o-concerto-do-ciclo-de-musica-mima-crua",
       "status": "published",
       "title": "3º Concerto do Ciclo de Música MIMA - CRUA  "
+    },
+    {
+      "__outstatic": {
+        "commit": "880b89d5d0c90baa56da54248723ed3e3a8a4ff6",
+        "hash": "3427316420",
+        "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/iseg-2--marc-o-2019-IzNT.jpg",
+      "description": "",
+      "publishedAt": "2024-03-25T04:17:46.934Z",
+      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
+      "status": "published",
+      "title": "Está a chegar o próximo concerto do CICLO MIMA "
     }
   ]
 }
