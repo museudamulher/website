@@ -1,6 +1,6 @@
 {
-  "commit": "880b89d5d0c90baa56da54248723ed3e3a8a4ff6",
-  "generated": "2024-03-25T04:21:22.210Z",
+  "commit": "a7c94ddd294cc6196949b8b2773a043c9f1f5937",
+  "generated": "2024-03-25T04:25:31.573Z",
   "metadata": [
     {
       "__outstatic": {
@@ -440,8 +440,8 @@
     },
     {
       "__outstatic": {
-        "commit": "880b89d5d0c90baa56da54248723ed3e3a8a4ff6",
-        "hash": "3427316420",
+        "commit": "a7c94ddd294cc6196949b8b2773a043c9f1f5937",
+        "hash": "3918018550",
         "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
       },
       "author": {
@@ -454,7 +454,7 @@
       "publishedAt": "2024-03-25T04:17:46.934Z",
       "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
       "status": "published",
-      "title": "Está a chegar o próximo concerto do CICLO MIMA "
+      "title": "Está a chegar o próximo concerto do CICLO MIMA - Margarida Prates "
     }
   ]
 }

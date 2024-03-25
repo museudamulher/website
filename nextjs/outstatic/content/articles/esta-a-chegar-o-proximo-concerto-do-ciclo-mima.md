@@ -1,6 +1,5 @@
 ---
-title: 'Está a chegar o próximo concerto do CICLO MIMA
-'
+title: 'Está a chegar o próximo concerto do CICLO MIMA - Margarida Prates '
 status: 'published'
 author:
   name: 'Carla'
@@ -13,9 +12,9 @@ publishedAt: '2024-03-25T04:17:46.934Z'
 
 2 de Abril, 19 H
 
-Teatro Turim 
+Teatro Turim
 
-Apresentação: Paula Castelar 
+Apresentação: Paula Castelar
 
 Transmissão em direto na Antena 2
 
