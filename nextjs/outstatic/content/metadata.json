@@ -1,6 +1,6 @@
 {
-  "commit": "738a468a22ea47d427afecf1e19f9b8390592474",
-  "generated": "2024-03-13T22:59:05.029Z",
+  "commit": "856a57b078430d1fde603e3e4143fcb2f9efbfc5",
+  "generated": "2024-03-25T04:05:24.212Z",
   "metadata": [
     {
       "__outstatic": {
@@ -269,24 +269,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a9f7423a3ddded39bd0468f8cc88b0813c0c744e",
-        "hash": "3205337800",
-        "path": "outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/149510350?v=4"
-      },
-      "collection": "concerts",
-      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
-      "externalUrl": "https://www.rtp.pt/play/palco/p4521/e741620/concertosantena2",
-      "publishedAt": "2024-01-17T22:14:51.000Z",
-      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
-      "status": "published",
-      "title": "Foi assim a abertura do ciclo de música MIMA"
-    },
-    {
-      "__outstatic": {
         "commit": "21f4b0161e073ddb673fe3599bcb603e45b8c9eb",
         "hash": "2079515876",
         "path": "outstatic/content/articles/parecer-do-conselho-fiscal-mima.md"
@@ -435,6 +417,25 @@
       "slug": "acta-do-conselho-fiscal",
       "status": "published",
       "title": "Acta do Conselho Fiscal"
+    },
+    {
+      "__outstatic": {
+        "commit": "856a57b078430d1fde603e3e4143fcb2f9efbfc5",
+        "hash": "255412156",
+        "path": "outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "concerts",
+      "coverImage": "/images/captura-de-ecra--2024-03-25--a-s-04.03.40-QzMz.png",
+      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
+      "externalUrl": "https://www.rtp.pt/play/palco/p4521/e741620/concertosantena2",
+      "publishedAt": "2024-01-17T22:14:51.000Z",
+      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Foi assim a abertura do ciclo de música MIMA"
     }
   ]
 }
