@@ -1,6 +1,6 @@
 {
-  "commit": "856a57b078430d1fde603e3e4143fcb2f9efbfc5",
-  "generated": "2024-03-25T04:05:24.212Z",
+  "commit": "164f93642119e2e4f0565a59706718014ca830ff",
+  "generated": "2024-03-25T04:13:09.590Z",
   "metadata": [
     {
       "__outstatic": {
@@ -436,6 +436,25 @@
       "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
       "status": "published",
       "title": "Foi assim a abertura do ciclo de música MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "164f93642119e2e4f0565a59706718014ca830ff",
+        "hash": "4060060396",
+        "path": "outstatic/content/concerts/3o-concerto-do-ciclo-de-musica-mima-crua.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "concerts",
+      "coverImage": "/images/captura-de-ecra--2024-03-25--a-s-04.10.36-ExNj.png",
+      "description": "",
+      "externalUrl": "https://antena2.rtp.pt/em-antena/mais-concertos/crua-5-marco-19h00/",
+      "publishedAt": "2024-03-25T04:08:01.014Z",
+      "slug": "3o-concerto-do-ciclo-de-musica-mima-crua",
+      "status": "published",
+      "title": "3º Concerto do Ciclo de Música MIMA - CRUA  "
     }
   ]
 }
