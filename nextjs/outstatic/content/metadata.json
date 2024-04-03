@@ -1,6 +1,6 @@
 {
-  "commit": "a7c94ddd294cc6196949b8b2773a043c9f1f5937",
-  "generated": "2024-03-25T04:25:31.573Z",
+  "commit": "4a3aeb2e6cf36db7fa5a1b0bd859711ee07905ac",
+  "generated": "2024-04-03T17:10:27.796Z",
   "metadata": [
     {
       "__outstatic": {
@@ -455,6 +455,24 @@
       "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
       "status": "published",
       "title": "Está a chegar o próximo concerto do CICLO MIMA - Margarida Prates "
+    },
+    {
+      "__outstatic": {
+        "commit": "4a3aeb2e6cf36db7fa5a1b0bd859711ee07905ac",
+        "hash": "1742078917",
+        "path": "outstatic/content/articles/exposicao-mulheres-pela-liberdade.md"
+      },
+      "author": {
+        "name": "carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/poster-final-mulheres-pela-liberdade-EzNT.jpg",
+      "description": "",
+      "publishedAt": "2024-04-03T17:13:20.333Z",
+      "slug": "exposicao-mulheres-pela-liberdade",
+      "status": "published",
+      "title": "Exposição Mulheres Pela Liberdade"
     }
   ]
 }
