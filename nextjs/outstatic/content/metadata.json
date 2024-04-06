@@ -1,6 +1,6 @@
 {
-  "commit": "4a3aeb2e6cf36db7fa5a1b0bd859711ee07905ac",
-  "generated": "2024-04-03T17:10:27.796Z",
+  "commit": "28f10381566f7824db66f2c848484315188310c6",
+  "generated": "2024-04-06T00:02:22.932Z",
   "metadata": [
     {
       "__outstatic": {
@@ -458,8 +458,8 @@
     },
     {
       "__outstatic": {
-        "commit": "4a3aeb2e6cf36db7fa5a1b0bd859711ee07905ac",
-        "hash": "1742078917",
+        "commit": "28f10381566f7824db66f2c848484315188310c6",
+        "hash": "158960268",
         "path": "outstatic/content/articles/exposicao-mulheres-pela-liberdade.md"
       },
       "author": {
