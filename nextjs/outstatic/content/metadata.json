@@ -1,6 +1,6 @@
 {
-  "commit": "75e8b545754e311d0044194a8deb6e9c394d9939",
-  "generated": "2024-04-10T21:57:06.970Z",
+  "commit": "3ae14044bf07cda2cf34bc89ab55e52c8b2aa584",
+  "generated": "2024-05-05T21:39:58.170Z",
   "metadata": [
     {
       "__outstatic": {
@@ -473,6 +473,24 @@
       "slug": "exposicao-mulheres-pela-liberdade",
       "status": "published",
       "title": "Exposição Mulheres Pela Liberdade"
+    },
+    {
+      "__outstatic": {
+        "commit": "3ae14044bf07cda2cf34bc89ab55e52c8b2aa584",
+        "hash": "1164660657",
+        "path": "outstatic/content/articles/vem-ai-mais-um-concerto-do-ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/img_8184-YxMz.jpg",
+      "description": "",
+      "publishedAt": "2024-05-05T21:43:36.288Z",
+      "slug": "vem-ai-mais-um-concerto-do-ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Vem aí mais um concerto do Ciclo de Música MIMA"
     }
   ]
 }
