@@ -1,6 +1,6 @@
 {
-  "commit": "3ae14044bf07cda2cf34bc89ab55e52c8b2aa584",
-  "generated": "2024-05-05T21:39:58.170Z",
+  "commit": "8e413b136f60d3af89a0d17fbec06ac08d2ffc8a",
+  "generated": "2024-05-14T12:33:00.562Z",
   "metadata": [
     {
       "__outstatic": {
@@ -491,6 +491,24 @@
       "slug": "vem-ai-mais-um-concerto-do-ciclo-de-musica-mima",
       "status": "published",
       "title": "Vem aí mais um concerto do Ciclo de Música MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "8e413b136f60d3af89a0d17fbec06ac08d2ffc8a",
+        "hash": "2658840926",
+        "path": "outstatic/content/articles/da-sombra-para-a-luz-fecha-o-ciclo-de-musica-mima-2024.md"
+      },
+      "author": {
+        "name": "carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/ciclo-mima-junho--E0ND.jpg",
+      "description": "",
+      "publishedAt": "2024-05-14T12:33:46.401Z",
+      "slug": "da-sombra-para-a-luz-fecha-o-ciclo-de-musica-mima-2024",
+      "status": "published",
+      "title": "Da Sombra Para a Luz fecha o Ciclo de Música MIMA 2024 "
     }
   ]
 }
