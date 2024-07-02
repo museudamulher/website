@@ -1,6 +1,6 @@
 {
-  "commit": "8e413b136f60d3af89a0d17fbec06ac08d2ffc8a",
-  "generated": "2024-05-14T12:33:00.562Z",
+  "commit": "bcd6176d117c4e2d76a830727cd307677b64d814",
+  "generated": "2024-07-02T22:45:14.588Z",
   "metadata": [
     {
       "__outstatic": {
@@ -509,6 +509,24 @@
       "slug": "da-sombra-para-a-luz-fecha-o-ciclo-de-musica-mima-2024",
       "status": "published",
       "title": "Da Sombra Para a Luz fecha o Ciclo de Música MIMA 2024 "
+    },
+    {
+      "__outstatic": {
+        "commit": "bcd6176d117c4e2d76a830727cd307677b64d814",
+        "hash": "2535188993",
+        "path": "outstatic/content/articles/cinemima-aos-nossos-filhos-de-maria-de-medeiros.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-02T22:47:28.117Z",
+      "slug": "cinemima-aos-nossos-filhos-de-maria-de-medeiros",
+      "status": "published",
+      "title": "CINEMIMA - “Aos Nossos Filhos” de Maria de Medeiros"
     }
   ]
 }
