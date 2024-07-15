@@ -1,42 +1,24 @@
 {
-  "commit": "bcd6176d117c4e2d76a830727cd307677b64d814",
-  "generated": "2024-07-02T22:45:14.588Z",
+  "commit": "564ba22736cfa6fdd69619063648cebd4d889208",
+  "generated": "Mon, 15 Jul 2024 22:19:40 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "997ffdda480546c3bc89b6802c07dd01de71cb1b",
-        "hash": "1971900493",
-        "path": "/outstatic/content/articles/marielle-franco.md"
+        "commit": "2864c72aca211d9973859945c3fa8ab06be46450",
+        "hash": "266625679",
+        "path": "/outstatic/content/articles/assinatura-do-protocolo-de-parceria-entre-o-mima-e-a-junta-de-freguesia-de-benfica.md"
       },
       "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "articles",
-      "coverImage": "/images/screenshot-2023-10-15-at-15.28.32-k4NT.png",
-      "description": "",
-      "publishedAt": "2018-03-16T14:41:50.000Z",
-      "slug": "marielle-franco",
-      "status": "published",
-      "title": "Obrigada, Marielle Franco!"
-    },
-    {
-      "__outstatic": {
-        "commit": "ab73a6bba95892e30f1131f9968e16383756e782",
-        "hash": "778672163",
-        "path": "/outstatic/content/articles/200-anos-de-cancoes-escritas-por-mulheres.md"
-      },
-      "author": {
-        "name": "c",
+        "name": "Carla",
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/dscf1510-Y5ND.jpg",
+      "coverImage": "/images/foto-protocolo-mima-cwMT.jpg",
       "description": "",
-      "publishedAt": "2023-12-19T16:15:46.068Z",
-      "slug": "200-anos-de-cancoes-escritas-por-mulheres",
+      "publishedAt": "2023-11-29T01:59:08.113Z",
+      "slug": "assinatura-do-protocolo-de-parceria-entre-o-mima-e-a-junta-de-freguesia-de-benfica",
       "status": "published",
-      "title": "200 Anos de Canções escritas por Mulheres"
+      "title": "Assinatura do protocolo de parceria entre o MIMA e a Junta de Freguesia de Benfica"
     },
     {
       "__outstatic": {
@@ -58,21 +40,147 @@
     },
     {
       "__outstatic": {
-        "commit": "2864c72aca211d9973859945c3fa8ab06be46450",
-        "hash": "266625679",
-        "path": "/outstatic/content/articles/assinatura-do-protocolo-de-parceria-entre-o-mima-e-a-junta-de-freguesia-de-benfica.md"
+        "commit": "ab73a6bba95892e30f1131f9968e16383756e782",
+        "hash": "778672163",
+        "path": "/outstatic/content/articles/200-anos-de-cancoes-escritas-por-mulheres.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/dscf1510-Y5ND.jpg",
+      "description": "",
+      "publishedAt": "2023-12-19T16:15:46.068Z",
+      "slug": "200-anos-de-cancoes-escritas-por-mulheres",
+      "status": "published",
+      "title": "200 Anos de Canções escritas por Mulheres"
+    },
+    {
+      "__outstatic": {
+        "commit": "a7e4ea217695aecc2bd6928c943976f2a1e21430",
+        "hash": "2535188993",
+        "path": "/outstatic/content/articles/cinemima-aos-nossos-filhos-de-maria-de-medeiros.md"
       },
       "author": {
         "name": "Carla",
         "picture": ""
       },
       "collection": "articles",
-      "coverImage": "/images/foto-protocolo-mima-cwMT.jpg",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2023-11-29T01:59:08.113Z",
-      "slug": "assinatura-do-protocolo-de-parceria-entre-o-mima-e-a-junta-de-freguesia-de-benfica",
+      "publishedAt": "2024-07-02T22:47:28.117Z",
+      "slug": "cinemima-aos-nossos-filhos-de-maria-de-medeiros",
       "status": "published",
-      "title": "Assinatura do protocolo de parceria entre o MIMA e a Junta de Freguesia de Benfica"
+      "title": "CINEMIMA - “Aos Nossos Filhos” de Maria de Medeiros"
+    },
+    {
+      "__outstatic": {
+        "commit": "997ffdda480546c3bc89b6802c07dd01de71cb1b",
+        "hash": "1971900493",
+        "path": "/outstatic/content/articles/marielle-franco.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "articles",
+      "coverImage": "/images/screenshot-2023-10-15-at-15.28.32-k4NT.png",
+      "description": "",
+      "publishedAt": "2018-03-16T14:41:50.000Z",
+      "slug": "marielle-franco",
+      "status": "published",
+      "title": "Obrigada, Marielle Franco!"
+    },
+    {
+      "__outstatic": {
+        "commit": "71ce2e841e9098df0ab72526909fcb3c514c85f7",
+        "hash": "3710852071",
+        "path": "/outstatic/content/articles/exposicao-mulheres-pela-liberdade.md"
+      },
+      "author": {
+        "name": "carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/poster-final-mulheres-pela-liberdade-EzNT.jpg",
+      "description": "",
+      "publishedAt": "2024-04-03T17:13:20.333Z",
+      "slug": "exposicao-mulheres-pela-liberdade",
+      "status": "published",
+      "title": "Exposição Mulheres Pela Liberdade"
+    },
+    {
+      "__outstatic": {
+        "commit": "529ac3ac5e1e3f52dbe299fa71e1f90da8c230cc",
+        "hash": "3918018550",
+        "path": "/outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/iseg-2--marc-o-2019-IzNT.jpg",
+      "description": "",
+      "publishedAt": "2024-03-25T04:17:46.934Z",
+      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
+      "status": "published",
+      "title": "Está a chegar o próximo concerto do CICLO MIMA - Margarida Prates "
+    },
+    {
+      "__outstatic": {
+        "commit": "707ad8606d61b0f24373f3d17c80348e3b74d396",
+        "hash": "2658840926",
+        "path": "/outstatic/content/articles/da-sombra-para-a-luz-fecha-o-ciclo-de-musica-mima-2024.md"
+      },
+      "author": {
+        "name": "carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/ciclo-mima-junho--E0ND.jpg",
+      "description": "",
+      "publishedAt": "2024-05-14T12:33:46.401Z",
+      "slug": "da-sombra-para-a-luz-fecha-o-ciclo-de-musica-mima-2024",
+      "status": "published",
+      "title": "Da Sombra Para a Luz fecha o Ciclo de Música MIMA 2024 "
+    },
+    {
+      "__outstatic": {
+        "commit": "cc84844249d6e9740de7babc4461d2b3dcc5746f",
+        "hash": "1709702116",
+        "path": "/outstatic/content/articles/narges-mohammadi.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "articles",
+      "coverImage": "/images/img_1704-Y3Mj.png",
+      "description": "",
+      "publishedAt": "2023-09-10T21:03:58.000Z",
+      "slug": "narges-mohammadi",
+      "status": "published",
+      "title": "Nobel da Paz para Narges Mohammadi, pela sua luta contra a opressão das mulheres no Irão"
+    },
+    {
+      "__outstatic": {
+        "commit": "633da51e0a1d30e4c806780611402249a30e4a25",
+        "hash": "2079515876",
+        "path": "/outstatic/content/articles/parecer-do-conselho-fiscal-mima.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/captura-de-ecra--2024-03-11--a-s-15.31.20-Q3ND.png",
+      "description": "",
+      "publishedAt": "2024-03-11T15:31:33.588Z",
+      "slug": "parecer-do-conselho-fiscal-mima",
+      "status": "published",
+      "title": "Parecer do Conselho Fiscal MIMA"
     },
     {
       "__outstatic": {
@@ -91,24 +199,6 @@
       "slug": "o-mima-na-rede-de-clubes-unesco",
       "status": "published",
       "title": "O MIMA na Rede de Clubes UNESCO"
-    },
-    {
-      "__outstatic": {
-        "commit": "d6403cde3f0ac6ce7ef17626d1109d4f150f574b",
-        "hash": "3969965700",
-        "path": "/outstatic/content/articles/relatorio-da-igualdade-de-genero-em-portugal-2018.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "articles",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2018-03-02T16:02:23.000Z",
-      "slug": "relatorio-da-igualdade-de-genero-em-portugal-2018",
-      "status": "published",
-      "title": "Relatório da Igualdade de Género em Portugal (2018)"
     },
     {
       "__outstatic": {
@@ -148,21 +238,211 @@
     },
     {
       "__outstatic": {
-        "commit": "cc84844249d6e9740de7babc4461d2b3dcc5746f",
-        "hash": "1709702116",
-        "path": "/outstatic/content/articles/narges-mohammadi.md"
+        "commit": "98fe9fd07ebf29a6559bdb950bf97c2cbfc43743",
+        "hash": "255412156",
+        "path": "/outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "concerts",
+      "coverImage": "/images/captura-de-ecra--2024-03-25--a-s-04.03.40-QzMz.png",
+      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
+      "externalUrl": "https://www.rtp.pt/play/palco/p4521/e741620/concertosantena2",
+      "publishedAt": "2024-01-17T22:14:51.000Z",
+      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Foi assim a abertura do ciclo de música MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "d6403cde3f0ac6ce7ef17626d1109d4f150f574b",
+        "hash": "3969965700",
+        "path": "/outstatic/content/articles/relatorio-da-igualdade-de-genero-em-portugal-2018.md"
       },
       "author": {
         "name": "João de Vasconcelos",
         "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
       },
       "collection": "articles",
-      "coverImage": "/images/img_1704-Y3Mj.png",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2023-09-10T21:03:58.000Z",
-      "slug": "narges-mohammadi",
+      "publishedAt": "2018-03-02T16:02:23.000Z",
+      "slug": "relatorio-da-igualdade-de-genero-em-portugal-2018",
       "status": "published",
-      "title": "Nobel da Paz para Narges Mohammadi, pela sua luta contra a opressão das mulheres no Irão"
+      "title": "Relatório da Igualdade de Género em Portugal (2018)"
+    },
+    {
+      "__outstatic": {
+        "commit": "97f1185c1898d3792829b50ec18914b0b302a005",
+        "hash": "4060060396",
+        "path": "/outstatic/content/concerts/3o-concerto-do-ciclo-de-musica-mima-crua.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "concerts",
+      "coverImage": "/images/captura-de-ecra--2024-03-25--a-s-04.10.36-ExNj.png",
+      "description": "",
+      "externalUrl": "https://antena2.rtp.pt/em-antena/mais-concertos/crua-5-marco-19h00/",
+      "publishedAt": "2024-03-25T04:08:01.014Z",
+      "slug": "3o-concerto-do-ciclo-de-musica-mima-crua",
+      "status": "published",
+      "title": "3º Concerto do Ciclo de Música MIMA - CRUA  "
+    },
+    {
+      "__outstatic": {
+        "commit": "6a18bd08e5b1ce125487bca5768e8e69b5925938",
+        "hash": "1164660657",
+        "path": "/outstatic/content/articles/vem-ai-mais-um-concerto-do-ciclo-de-musica-mima.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/img_8184-YxMz.jpg",
+      "description": "",
+      "publishedAt": "2024-05-05T21:43:36.288Z",
+      "slug": "vem-ai-mais-um-concerto-do-ciclo-de-musica-mima",
+      "status": "published",
+      "title": "Vem aí mais um concerto do Ciclo de Música MIMA"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa39a707d58d300d0aca81beee5502c86766baf1",
+        "hash": "1719309068",
+        "path": "/outstatic/content/concerts/2o-concerto-do-ciclo-de-musica-mima-anais-quarteto.md"
+      },
+      "author": {
+        "name": "c",
+        "picture": ""
+      },
+      "collection": "concerts",
+      "coverImage": "/images/captura-de-ecra--2024-02-25--a-s-15.15.36-MwOD.png",
+      "description": "",
+      "externalUrl": "https://antena2.rtp.pt/em-antena/mais-concertos/anais-quarteto-6-fevereiro-19h00/",
+      "publishedAt": "2024-02-25T15:08:54.856Z",
+      "slug": "2o-concerto-do-ciclo-de-musica-mima-anais-quarteto",
+      "status": "published",
+      "title": "2º Concerto do Ciclo de Música MIMA - Anaís Quarteto  "
+    },
+    {
+      "__outstatic": {
+        "commit": "db3846476d04dc483a622d76d8f456e7ba2b496d",
+        "hash": "889407247",
+        "path": "/outstatic/content/documents/acta-do-conselho-fiscal.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "Ata_1_Conselho_Fiscal_MIMA.pdf",
+      "publishedAt": "2024-03-13T22:54:06.138Z",
+      "slug": "acta-do-conselho-fiscal",
+      "status": "published",
+      "title": "Acta do Conselho Fiscal"
+    },
+    {
+      "__outstatic": {
+        "commit": "50802a0332421eb43a0054ed5bdb66b921bddd2d",
+        "hash": "3357698168",
+        "path": "/outstatic/content/documents/balancete-acumulado-2023.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "BA_MIMA_2023.pdf",
+      "publishedAt": "2024-03-13T22:17:46.550Z",
+      "slug": "balancete-acumulado-2023",
+      "status": "published",
+      "title": "Balancete Acumulado (2023)"
+    },
+    {
+      "__outstatic": {
+        "commit": "74a42c61f33b6ce3ee5cc8a3cd61b4ba4459e1ad",
+        "hash": "2122143266",
+        "path": "/outstatic/content/documents/demonstracao-de-resultados-2023.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "DR_MIMA_2023.pdf",
+      "publishedAt": "2024-03-13T22:13:41.388Z",
+      "slug": "demonstracao-de-resultados-2023",
+      "status": "published",
+      "title": "Demonstração de Resultados (2023)"
+    },
+    {
+      "__outstatic": {
+        "commit": "b1603bb4e2f774a94078252f494185baaea2f764",
+        "hash": "1898758547",
+        "path": "/outstatic/content/documents/estatutos.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "MIMA-Estatutos.pdf",
+      "fileUrl": "https://museudamulher.com/docs/MIMA-Estatutos.pdf",
+      "publishedAt": "2024-03-13T21:43:20.604Z",
+      "slug": "estatutos",
+      "status": "published",
+      "title": "Estatutos"
+    },
+    {
+      "__outstatic": {
+        "commit": "21b18a83342685270cf162d1d2127ed0b0f73012",
+        "hash": "2454964655",
+        "path": "/outstatic/content/documents/balanco-2023.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "Balanco_MIMA_2023.pdf",
+      "publishedAt": "2024-03-13T22:18:30.385Z",
+      "slug": "balanco-2023",
+      "status": "published",
+      "title": "Balanço (2023)"
+    },
+    {
+      "__outstatic": {
+        "commit": "658734dad307ab7c6a4b0c6f67be9c68f9839ddb",
+        "hash": "3403902387",
+        "path": "/outstatic/content/documents/relatorio-de-gestao-2023.md"
+      },
+      "author": {
+        "name": "João de Vasconcelos",
+        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
+      },
+      "collection": "documents",
+      "coverImage": "",
+      "description": "",
+      "fileName": "MIMA_Relatorio_Gestao_2023.pdf",
+      "publishedAt": "2024-03-13T22:20:04.173Z",
+      "slug": "relatorio-de-gestao-2023",
+      "status": "published",
+      "title": "Relatório de Gestão (2023)"
     },
     {
       "__outstatic": {
@@ -247,286 +527,6 @@
       "status": "published",
       "textColor": "",
       "title": "Da Costela de Adão"
-    },
-    {
-      "__outstatic": {
-        "commit": "219aaf17bd622a71709eb5422cb9679ae392cafc",
-        "hash": "1719309068",
-        "path": "outstatic/content/concerts/2o-concerto-do-ciclo-de-musica-mima-anais-quarteto.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "concerts",
-      "coverImage": "/images/captura-de-ecra--2024-02-25--a-s-15.15.36-MwOD.png",
-      "description": "",
-      "externalUrl": "https://antena2.rtp.pt/em-antena/mais-concertos/anais-quarteto-6-fevereiro-19h00/",
-      "publishedAt": "2024-02-25T15:08:54.856Z",
-      "slug": "2o-concerto-do-ciclo-de-musica-mima-anais-quarteto",
-      "status": "published",
-      "title": "2º Concerto do Ciclo de Música MIMA - Anaís Quarteto  "
-    },
-    {
-      "__outstatic": {
-        "commit": "21f4b0161e073ddb673fe3599bcb603e45b8c9eb",
-        "hash": "2079515876",
-        "path": "outstatic/content/articles/parecer-do-conselho-fiscal-mima.md"
-      },
-      "author": {
-        "name": "c",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/captura-de-ecra--2024-03-11--a-s-15.31.20-Q3ND.png",
-      "description": "",
-      "publishedAt": "2024-03-11T15:31:33.588Z",
-      "slug": "parecer-do-conselho-fiscal-mima",
-      "status": "published",
-      "title": "Parecer do Conselho Fiscal MIMA"
-    },
-    {
-      "__outstatic": {
-        "commit": "a4eb6c8bb5a4f9b859e05ffac96e9f4d79a5619f",
-        "hash": "1898758547",
-        "path": "outstatic/content/documents/estatutos.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "documents",
-      "coverImage": "",
-      "description": "",
-      "fileName": "MIMA-Estatutos.pdf",
-      "fileUrl": "https://museudamulher.com/docs/MIMA-Estatutos.pdf",
-      "publishedAt": "2024-03-13T21:43:20.604Z",
-      "slug": "estatutos",
-      "status": "published",
-      "title": "Estatutos"
-    },
-    {
-      "__outstatic": {
-        "commit": "6aa70e563f80e764f8cb0acab7d843e02e40e60d",
-        "hash": "2122143266",
-        "path": "outstatic/content/documents/demonstracao-de-resultados-2023.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "documents",
-      "coverImage": "",
-      "description": "",
-      "fileName": "DR_MIMA_2023.pdf",
-      "publishedAt": "2024-03-13T22:13:41.388Z",
-      "slug": "demonstracao-de-resultados-2023",
-      "status": "published",
-      "title": "Demonstração de Resultados (2023)"
-    },
-    {
-      "__outstatic": {
-        "commit": "794c2c6a0254329bbe9253150e2f62f56da1216e",
-        "hash": "3357698168",
-        "path": "outstatic/content/documents/balancete-acumulado-2023.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "documents",
-      "coverImage": "",
-      "description": "",
-      "fileName": "BA_MIMA_2023.pdf",
-      "publishedAt": "2024-03-13T22:17:46.550Z",
-      "slug": "balancete-acumulado-2023",
-      "status": "published",
-      "title": "Balancete Acumulado (2023)"
-    },
-    {
-      "__outstatic": {
-        "commit": "41be1fab7660f1c549a66b22edf46a740c756f21",
-        "hash": "2454964655",
-        "path": "outstatic/content/documents/balanco-2023.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "documents",
-      "coverImage": "",
-      "description": "",
-      "fileName": "Balanco_MIMA_2023.pdf",
-      "publishedAt": "2024-03-13T22:18:30.385Z",
-      "slug": "balanco-2023",
-      "status": "published",
-      "title": "Balanço (2023)"
-    },
-    {
-      "__outstatic": {
-        "commit": "2a848c9555e59d44c9b914e375c0834b89565057",
-        "hash": "3403902387",
-        "path": "outstatic/content/documents/relatorio-de-gestao-2023.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "documents",
-      "coverImage": "",
-      "description": "",
-      "fileName": "MIMA_Relatorio_Gestao_2023.pdf",
-      "publishedAt": "2024-03-13T22:20:04.173Z",
-      "slug": "relatorio-de-gestao-2023",
-      "status": "published",
-      "title": "Relatório de Gestão (2023)"
-    },
-    {
-      "__outstatic": {
-        "commit": "362cd8b4609df07b7c376dc2b04aa905fd301b98",
-        "hash": "889407247",
-        "path": "outstatic/content/documents/acta-do-conselho-fiscal.md"
-      },
-      "author": {
-        "name": "João de Vasconcelos",
-        "picture": "https://avatars.githubusercontent.com/u/10943992?v=4"
-      },
-      "collection": "documents",
-      "coverImage": "",
-      "description": "",
-      "fileName": "Ata_1_Conselho_Fiscal_MIMA.pdf",
-      "publishedAt": "2024-03-13T22:54:06.138Z",
-      "slug": "acta-do-conselho-fiscal",
-      "status": "published",
-      "title": "Acta do Conselho Fiscal"
-    },
-    {
-      "__outstatic": {
-        "commit": "856a57b078430d1fde603e3e4143fcb2f9efbfc5",
-        "hash": "255412156",
-        "path": "outstatic/content/concerts/foi-assim-a-abertura-do-ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "Carla",
-        "picture": ""
-      },
-      "collection": "concerts",
-      "coverImage": "/images/captura-de-ecra--2024-03-25--a-s-04.03.40-QzMz.png",
-      "description": "Ciclo Mima | Elvire de Paiva e Pona & Joana Rolo | 2 janeiro 2024",
-      "externalUrl": "https://www.rtp.pt/play/palco/p4521/e741620/concertosantena2",
-      "publishedAt": "2024-01-17T22:14:51.000Z",
-      "slug": "foi-assim-a-abertura-do-ciclo-de-musica-mima",
-      "status": "published",
-      "title": "Foi assim a abertura do ciclo de música MIMA"
-    },
-    {
-      "__outstatic": {
-        "commit": "164f93642119e2e4f0565a59706718014ca830ff",
-        "hash": "4060060396",
-        "path": "outstatic/content/concerts/3o-concerto-do-ciclo-de-musica-mima-crua.md"
-      },
-      "author": {
-        "name": "Carla",
-        "picture": ""
-      },
-      "collection": "concerts",
-      "coverImage": "/images/captura-de-ecra--2024-03-25--a-s-04.10.36-ExNj.png",
-      "description": "",
-      "externalUrl": "https://antena2.rtp.pt/em-antena/mais-concertos/crua-5-marco-19h00/",
-      "publishedAt": "2024-03-25T04:08:01.014Z",
-      "slug": "3o-concerto-do-ciclo-de-musica-mima-crua",
-      "status": "published",
-      "title": "3º Concerto do Ciclo de Música MIMA - CRUA  "
-    },
-    {
-      "__outstatic": {
-        "commit": "a7c94ddd294cc6196949b8b2773a043c9f1f5937",
-        "hash": "3918018550",
-        "path": "outstatic/content/articles/esta-a-chegar-o-proximo-concerto-do-ciclo-mima.md"
-      },
-      "author": {
-        "name": "Carla",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/iseg-2--marc-o-2019-IzNT.jpg",
-      "description": "",
-      "publishedAt": "2024-03-25T04:17:46.934Z",
-      "slug": "esta-a-chegar-o-proximo-concerto-do-ciclo-mima",
-      "status": "published",
-      "title": "Está a chegar o próximo concerto do CICLO MIMA - Margarida Prates "
-    },
-    {
-      "__outstatic": {
-        "commit": "75e8b545754e311d0044194a8deb6e9c394d9939",
-        "hash": "3710852071",
-        "path": "outstatic/content/articles/exposicao-mulheres-pela-liberdade.md"
-      },
-      "author": {
-        "name": "carla",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/poster-final-mulheres-pela-liberdade-EzNT.jpg",
-      "description": "",
-      "publishedAt": "2024-04-03T17:13:20.333Z",
-      "slug": "exposicao-mulheres-pela-liberdade",
-      "status": "published",
-      "title": "Exposição Mulheres Pela Liberdade"
-    },
-    {
-      "__outstatic": {
-        "commit": "3ae14044bf07cda2cf34bc89ab55e52c8b2aa584",
-        "hash": "1164660657",
-        "path": "outstatic/content/articles/vem-ai-mais-um-concerto-do-ciclo-de-musica-mima.md"
-      },
-      "author": {
-        "name": "Carla",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/img_8184-YxMz.jpg",
-      "description": "",
-      "publishedAt": "2024-05-05T21:43:36.288Z",
-      "slug": "vem-ai-mais-um-concerto-do-ciclo-de-musica-mima",
-      "status": "published",
-      "title": "Vem aí mais um concerto do Ciclo de Música MIMA"
-    },
-    {
-      "__outstatic": {
-        "commit": "8e413b136f60d3af89a0d17fbec06ac08d2ffc8a",
-        "hash": "2658840926",
-        "path": "outstatic/content/articles/da-sombra-para-a-luz-fecha-o-ciclo-de-musica-mima-2024.md"
-      },
-      "author": {
-        "name": "carla",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "/images/ciclo-mima-junho--E0ND.jpg",
-      "description": "",
-      "publishedAt": "2024-05-14T12:33:46.401Z",
-      "slug": "da-sombra-para-a-luz-fecha-o-ciclo-de-musica-mima-2024",
-      "status": "published",
-      "title": "Da Sombra Para a Luz fecha o Ciclo de Música MIMA 2024 "
-    },
-    {
-      "__outstatic": {
-        "commit": "bcd6176d117c4e2d76a830727cd307677b64d814",
-        "hash": "2535188993",
-        "path": "outstatic/content/articles/cinemima-aos-nossos-filhos-de-maria-de-medeiros.md"
-      },
-      "author": {
-        "name": "Carla",
-        "picture": ""
-      },
-      "collection": "articles",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-02T22:47:28.117Z",
-      "slug": "cinemima-aos-nossos-filhos-de-maria-de-medeiros",
-      "status": "published",
-      "title": "CINEMIMA - “Aos Nossos Filhos” de Maria de Medeiros"
     }
   ]
 }
