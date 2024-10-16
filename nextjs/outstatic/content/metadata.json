@@ -1,6 +1,6 @@
 {
-  "commit": "564ba22736cfa6fdd69619063648cebd4d889208",
-  "generated": "Mon, 15 Jul 2024 22:19:40 GMT",
+  "commit": "18cddebbf90388a9b63c266ea21605d1585e5733",
+  "generated": "2024-10-16T00:38:33.436Z",
   "metadata": [
     {
       "__outstatic": {
@@ -527,6 +527,24 @@
       "status": "published",
       "textColor": "",
       "title": "Da Costela de Adão"
+    },
+    {
+      "__outstatic": {
+        "commit": "18cddebbf90388a9b63c266ea21605d1585e5733",
+        "hash": "3226815723",
+        "path": "outstatic/content/articles/exposicao-you-don-t-own-me.md"
+      },
+      "author": {
+        "name": "Carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/poster-you-dont-own-me-final-k5Nz.jpg",
+      "description": "",
+      "publishedAt": "2024-10-16T00:38:35.274Z",
+      "slug": "exposicao-you-don-t-own-me",
+      "status": "published",
+      "title": "Exposição \"You Don't Own Me\""
     }
   ]
 }
