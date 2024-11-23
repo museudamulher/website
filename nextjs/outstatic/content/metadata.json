@@ -1,6 +1,6 @@
 {
-  "commit": "18cddebbf90388a9b63c266ea21605d1585e5733",
-  "generated": "2024-10-16T00:38:33.436Z",
+  "commit": "a1bc96e124317c724098319b06b667e5619671d1",
+  "generated": "2024-11-23T14:35:18.810Z",
   "metadata": [
     {
       "__outstatic": {
@@ -545,6 +545,24 @@
       "slug": "exposicao-you-don-t-own-me",
       "status": "published",
       "title": "Exposição \"You Don't Own Me\""
+    },
+    {
+      "__outstatic": {
+        "commit": "a1bc96e124317c724098319b06b667e5619671d1",
+        "hash": "4200157612",
+        "path": "outstatic/content/articles/assembleia-geral-do-mima-5-de-dezembro-de-2024.md"
+      },
+      "author": {
+        "name": "carla",
+        "picture": ""
+      },
+      "collection": "articles",
+      "coverImage": "/images/captura-de-ecra--2024-11-23--a-s-14.34.48-Y5Nz.png",
+      "description": "",
+      "publishedAt": "2024-11-23T14:33:19.697Z",
+      "slug": "assembleia-geral-do-mima-5-de-dezembro-de-2024",
+      "status": "published",
+      "title": "Assembleia Geral do MIMA - 5 de Dezembro de 2024"
     }
   ]
 }
