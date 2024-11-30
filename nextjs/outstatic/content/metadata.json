@@ -1,6 +1,6 @@
 {
-  "commit": "a1bc96e124317c724098319b06b667e5619671d1",
-  "generated": "2024-11-23T14:35:18.810Z",
+  "commit": "951003100f714c27ccc62896acc4a4ba4c06cdf8",
+  "generated": "2024-11-30T12:01:23.376Z",
   "metadata": [
     {
       "__outstatic": {
@@ -548,7 +548,7 @@
     },
     {
       "__outstatic": {
-        "commit": "a1bc96e124317c724098319b06b667e5619671d1",
+        "commit": "951003100f714c27ccc62896acc4a4ba4c06cdf8",
         "hash": "4200157612",
         "path": "outstatic/content/articles/assembleia-geral-do-mima-5-de-dezembro-de-2024.md"
       },
